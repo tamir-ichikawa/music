@@ -20,7 +20,9 @@
     "wav_bytes": 58752044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Vivaldi/VIV-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Vivaldi/VIV-001.wav"
   },
   {
     "id": "VIV-002",
@@ -43,7 +45,9 @@
     "wav_bytes": 61632044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Vivaldi/VIV-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Vivaldi/VIV-002.wav"
   },
   {
     "id": "VIV-003",
@@ -66,6 +70,8 @@
     "wav_bytes": 64512068,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Vivaldi/VIV-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Vivaldi/VIV-003.wav"
   }
 ]

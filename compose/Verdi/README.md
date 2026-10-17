@@ -6,12 +6,12 @@
 
 [全作家へ戻る](../README.md)
 
-| 型番 | 曲名・説明 | 編成 | 長さ | MIDI |
-| --- | --- | --- | --- | --- |
-| VRD-001 | [夜明け前の舞台](VRD-001.md) | 弦四重奏 | 3:23 | [MIDI](VRD-001.mid) |
-| VRD-002 | [窓に残る歌](VRD-002.md) | オーボエと弦 | 3:33 | [MIDI](VRD-002.mid) |
-| VRD-003 | [祝杯の残響](VRD-003.md) | 木管・弦・ホルン | 3:43 | [MIDI](VRD-003.mid) |
+| 型番 | 曲名・説明 | 編成 | 長さ | WAV | MIDI |
+| --- | --- | --- | --- | --- | --- |
+| VRD-001 | [夜明け前の舞台](VRD-001.md) | 弦四重奏 | 3:23 | [WAV](https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Verdi/VRD-001.wav) | [MIDI](VRD-001.mid) |
+| VRD-002 | [窓に残る歌](VRD-002.md) | オーボエと弦 | 3:33 | [WAV](https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Verdi/VRD-002.wav) | [MIDI](VRD-002.mid) |
+| VRD-003 | [祝杯の残響](VRD-003.md) | 木管・弦・ホルン | 3:43 | [WAV](https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Verdi/VRD-003.wav) | [MIDI](VRD-003.mid) |
 
-WAV本体はGitHub Releasesの作家別ZIPに保存しています。リポジトリの「Code → Download ZIP」にはWAV本体は入りません。
+WAVとMIDIはこのフォルダに1曲ずつ収録しています。表の「WAV」から、携帯でもZIPを展開せずに音声ファイルを開けます。再生またはダウンロードの動作は端末・ブラウザにより異なります。
 
 [制作・公開範囲](../ABOUT.md) / [音源クレジット](../credits/SOUNDFONT_NOTICE.txt)
