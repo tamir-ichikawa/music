@@ -20,7 +20,9 @@
     "wav_bytes": 57312056,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Alkan/ALK-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Alkan/ALK-001.wav"
   },
   {
     "id": "ALK-002",
@@ -43,7 +45,9 @@
     "wav_bytes": 60192038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Alkan/ALK-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Alkan/ALK-002.wav"
   },
   {
     "id": "ALK-003",
@@ -66,6 +70,8 @@
     "wav_bytes": 63072044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Alkan/ALK-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Alkan/ALK-003.wav"
   }
 ]

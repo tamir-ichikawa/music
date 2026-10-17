@@ -20,7 +20,9 @@
     "wav_bytes": 57600038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Bach/BCH-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Bach/BCH-001.wav"
   },
   {
     "id": "BCH-002",
@@ -43,7 +45,9 @@
     "wav_bytes": 60480044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Bach/BCH-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Bach/BCH-002.wav"
   },
   {
     "id": "BCH-003",
@@ -66,6 +70,8 @@
     "wav_bytes": 63360050,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Bach/BCH-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Bach/BCH-003.wav"
   }
 ]
