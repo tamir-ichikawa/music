@@ -20,7 +20,9 @@
     "wav_bytes": 57600050,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Dukas/DUK-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Dukas/DUK-001.wav"
   },
   {
     "id": "DUK-002",
@@ -43,7 +45,9 @@
     "wav_bytes": 60480044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Dukas/DUK-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Dukas/DUK-002.wav"
   },
   {
     "id": "DUK-003",
@@ -66,6 +70,8 @@
     "wav_bytes": 63360044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Dukas/DUK-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Dukas/DUK-003.wav"
   }
 ]

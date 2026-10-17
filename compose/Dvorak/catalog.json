@@ -20,7 +20,9 @@
     "wav_bytes": 57888044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Dvorak/DVK-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Dvorak/DVK-001.wav"
   },
   {
     "id": "DVK-002",
@@ -43,7 +45,9 @@
     "wav_bytes": 60768050,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Dvorak/DVK-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Dvorak/DVK-002.wav"
   },
   {
     "id": "DVK-003",
@@ -66,6 +70,8 @@
     "wav_bytes": 63648050,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Dvorak/DVK-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Dvorak/DVK-003.wav"
   }
 ]

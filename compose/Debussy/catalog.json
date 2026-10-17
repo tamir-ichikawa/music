@@ -20,7 +20,9 @@
     "wav_bytes": 60192044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Debussy/DBY-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Debussy/DBY-001.wav"
   },
   {
     "id": "DBY-002",
@@ -43,7 +45,9 @@
     "wav_bytes": 63360044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Debussy/DBY-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Debussy/DBY-002.wav"
   },
   {
     "id": "DBY-003",
@@ -66,7 +70,9 @@
     "wav_bytes": 58176044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Debussy/DBY-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Debussy/DBY-003.wav"
   },
   {
     "id": "DBY-004",
@@ -89,7 +95,9 @@
     "wav_bytes": 62784044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Debussy/DBY-004.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Debussy/DBY-004.wav"
   },
   {
     "id": "DBY-005",
@@ -112,7 +120,9 @@
     "wav_bytes": 63360044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Debussy/DBY-005.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Debussy/DBY-005.wav"
   },
   {
     "id": "DBY-006",
@@ -135,7 +145,9 @@
     "wav_bytes": 60480044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Debussy/DBY-006.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Debussy/DBY-006.wav"
   },
   {
     "id": "DBY-007",
@@ -158,7 +170,9 @@
     "wav_bytes": 65088044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Debussy/DBY-007.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Debussy/DBY-007.wav"
   },
   {
     "id": "DBY-008",
@@ -181,7 +195,9 @@
     "wav_bytes": 57312050,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Debussy/DBY-008.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Debussy/DBY-008.wav"
   },
   {
     "id": "DBY-009",
@@ -204,7 +220,9 @@
     "wav_bytes": 60192044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Debussy/DBY-009.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Debussy/DBY-009.wav"
   },
   {
     "id": "DBY-010",
@@ -227,6 +245,8 @@
     "wav_bytes": 63072044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Debussy/DBY-010.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Debussy/DBY-010.wav"
   }
 ]
