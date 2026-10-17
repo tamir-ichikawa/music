@@ -20,7 +20,9 @@
     "wav_bytes": 59040032,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Paganini/PGN-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Paganini/PGN-001.wav"
   },
   {
     "id": "PGN-002",
@@ -43,7 +45,9 @@
     "wav_bytes": 61920038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Paganini/PGN-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Paganini/PGN-002.wav"
   },
   {
     "id": "PGN-003",
@@ -66,6 +70,8 @@
     "wav_bytes": 64800038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Paganini/PGN-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Paganini/PGN-003.wav"
   }
 ]

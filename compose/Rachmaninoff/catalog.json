@@ -20,7 +20,9 @@
     "wav_bytes": 59328044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Rachmaninoff/RCH-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Rachmaninoff/RCH-001.wav"
   },
   {
     "id": "RCH-002",
@@ -43,7 +45,9 @@
     "wav_bytes": 62208050,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Rachmaninoff/RCH-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Rachmaninoff/RCH-002.wav"
   },
   {
     "id": "RCH-003",
@@ -66,6 +70,8 @@
     "wav_bytes": 65088038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Rachmaninoff/RCH-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Rachmaninoff/RCH-003.wav"
   }
 ]

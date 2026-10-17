@@ -6,12 +6,12 @@
 
 [全作家へ戻る](../README.md)
 
-| 型番 | 曲名・説明 | 編成 | 長さ | MIDI |
-| --- | --- | --- | --- | --- |
-| PGN-001 | [銀糸の跳躍](PGN-001.md) | ヴァイオリン独奏 | 3:25 | [MIDI](PGN-001.mid) |
-| PGN-002 | [月影の二重奏](PGN-002.md) | ヴァイオリンとギター | 3:35 | [MIDI](PGN-002.mid) |
-| PGN-003 | [旅人の変奏](PGN-003.md) | ヴァイオリン独奏 | 3:45 | [MIDI](PGN-003.mid) |
+| 型番 | 曲名・説明 | 編成 | 長さ | WAV | MIDI |
+| --- | --- | --- | --- | --- | --- |
+| PGN-001 | [銀糸の跳躍](PGN-001.md) | ヴァイオリン独奏 | 3:25 | [WAV](https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Paganini/PGN-001.wav) | [MIDI](PGN-001.mid) |
+| PGN-002 | [月影の二重奏](PGN-002.md) | ヴァイオリンとギター | 3:35 | [WAV](https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Paganini/PGN-002.wav) | [MIDI](PGN-002.mid) |
+| PGN-003 | [旅人の変奏](PGN-003.md) | ヴァイオリン独奏 | 3:45 | [WAV](https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Paganini/PGN-003.wav) | [MIDI](PGN-003.mid) |
 
-WAV本体はGitHub Releasesの作家別ZIPに保存しています。リポジトリの「Code → Download ZIP」にはWAV本体は入りません。
+WAVとMIDIはこのフォルダに1曲ずつ収録しています。表の「WAV」から、携帯でもZIPを展開せずに音声ファイルを開けます。再生またはダウンロードの動作は端末・ブラウザにより異なります。
 
 [制作・公開範囲](../ABOUT.md) / [音源クレジット](../credits/SOUNDFONT_NOTICE.txt)
