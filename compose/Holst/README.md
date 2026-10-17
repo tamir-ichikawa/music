@@ -6,12 +6,12 @@
 
 [全作家へ戻る](../README.md)
 
-| 型番 | 曲名・説明 | 編成 | 長さ | MIDI |
-| --- | --- | --- | --- | --- |
-| HLS-001 | [三つの草笛](HLS-001.md) | フルート・オーボエ・ヴィオラ | 3:18 | [MIDI](HLS-001.mid) |
-| HLS-002 | [交わる小径](HLS-002.md) | フルート・オーボエ・ヴィオラ | 3:28 | [MIDI](HLS-002.mid) |
-| HLS-003 | [丘の三つの灯](HLS-003.md) | フルート・オーボエ・ヴィオラ | 3:38 | [MIDI](HLS-003.mid) |
+| 型番 | 曲名・説明 | 編成 | 長さ | WAV | MIDI |
+| --- | --- | --- | --- | --- | --- |
+| HLS-001 | [三つの草笛](HLS-001.md) | フルート・オーボエ・ヴィオラ | 3:18 | [WAV](https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Holst/HLS-001.wav) | [MIDI](HLS-001.mid) |
+| HLS-002 | [交わる小径](HLS-002.md) | フルート・オーボエ・ヴィオラ | 3:28 | [WAV](https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Holst/HLS-002.wav) | [MIDI](HLS-002.mid) |
+| HLS-003 | [丘の三つの灯](HLS-003.md) | フルート・オーボエ・ヴィオラ | 3:38 | [WAV](https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Holst/HLS-003.wav) | [MIDI](HLS-003.mid) |
 
-WAV本体はGitHub Releasesの作家別ZIPに保存しています。リポジトリの「Code → Download ZIP」にはWAV本体は入りません。
+WAVとMIDIはこのフォルダに1曲ずつ収録しています。表の「WAV」から、携帯でもZIPを展開せずに音声ファイルを開けます。再生またはダウンロードの動作は端末・ブラウザにより異なります。
 
 [制作・公開範囲](../ABOUT.md) / [音源クレジット](../credits/SOUNDFONT_NOTICE.txt)

@@ -6,12 +6,12 @@
 
 [全作家へ戻る](../README.md)
 
-| 型番 | 曲名・説明 | 編成 | 長さ | MIDI |
-| --- | --- | --- | --- | --- |
-| LZT-001 | [眠らぬ星](LZT-001.md) | ピアノ独奏 | 3:20 | [MIDI](LZT-001.mid) |
-| LZT-002 | [深い谷の物語](LZT-002.md) | ピアノ独奏 | 3:30 | [MIDI](LZT-002.mid) |
-| LZT-003 | [朝光の泉](LZT-003.md) | ピアノ独奏 | 3:40 | [MIDI](LZT-003.mid) |
+| 型番 | 曲名・説明 | 編成 | 長さ | WAV | MIDI |
+| --- | --- | --- | --- | --- | --- |
+| LZT-001 | [眠らぬ星](LZT-001.md) | ピアノ独奏 | 3:20 | [WAV](https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Liszt/LZT-001.wav) | [MIDI](LZT-001.mid) |
+| LZT-002 | [深い谷の物語](LZT-002.md) | ピアノ独奏 | 3:30 | [WAV](https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Liszt/LZT-002.wav) | [MIDI](LZT-002.mid) |
+| LZT-003 | [朝光の泉](LZT-003.md) | ピアノ独奏 | 3:40 | [WAV](https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Liszt/LZT-003.wav) | [MIDI](LZT-003.mid) |
 
-WAV本体はGitHub Releasesの作家別ZIPに保存しています。リポジトリの「Code → Download ZIP」にはWAV本体は入りません。
+WAVとMIDIはこのフォルダに1曲ずつ収録しています。表の「WAV」から、携帯でもZIPを展開せずに音声ファイルを開けます。再生またはダウンロードの動作は端末・ブラウザにより異なります。
 
 [制作・公開範囲](../ABOUT.md) / [音源クレジット](../credits/SOUNDFONT_NOTICE.txt)
