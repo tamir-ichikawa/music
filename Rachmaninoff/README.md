@@ -1,16 +1,8 @@
-# ラフマニノフ / Rachmaninoff
+# ラフマニノフ
 
-10本。各収録曲・楽章の末尾まで含む合成演奏WAV（44.1 kHz / 16 bit / stereo）。編曲版・抜粋は曲名に記載。
+保存先を形式別に整理しました。
 
-| 曲名 | WAV | 時間 | 利用条件・出典 |
-|---|---|---|---|
-| Prelude Op. 23, No. 1 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/wav-library-2026-10-16/Rachmaninoff__mutopia_1958_rach-prelude23-01.wav) | 3:01 | [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · [出典](https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1958) |
-| Prelude Op. 23, No. 10 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/wav-library-2026-10-16/Rachmaninoff__mutopia_2058_rach-prelude23-10.wav) | 3:46 | [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · [出典](https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2058) |
-| Prelude Op. 23, No. 2 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/wav-library-2026-10-16/Rachmaninoff__mutopia_1960_rach-prelude23-02.wav) | 3:26 | [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · [出典](https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1960) |
-| Prelude Op. 23, No. 3 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/wav-library-2026-10-16/Rachmaninoff__mutopia_1990_rach-prelude23-03.wav) | 4:12 | [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · [出典](https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1990) |
-| Prelude Op. 23, No. 4 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/wav-library-2026-10-16/Rachmaninoff__mutopia_1993_rach-prelude23-04.wav) | 4:40 | [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · [出典](https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1993) |
-| Prelude Op. 23, No. 5 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/wav-library-2026-10-16/Rachmaninoff__mutopia_2001_rach-prelude23-05.wav) | 4:10 | [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · [出典](https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2001) |
-| Prelude Op. 23, No. 6 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/wav-library-2026-10-16/Rachmaninoff__mutopia_1996_rach-prelude23-06.wav) | 2:40 | [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · [出典](https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1996) |
-| Prelude Op. 23, No. 8 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/wav-library-2026-10-16/Rachmaninoff__mutopia_2057_rach-prelude23-08.wav) | 2:20 | [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · [出典](https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2057) |
-| Prelude Op. 23, No. 9 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/wav-library-2026-10-16/Rachmaninoff__mutopia_2052_rach-prelude23-09.wav) | 2:34 | [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · [出典](https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2052) |
-| Prelude in C# minor — Op. 3, No. 2 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/wav-library-2026-10-16/Rachmaninoff__mutopia_2033_rach-prelude-op3-no2.wav) | 2:47 | [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · [出典](https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2033) |
+- [MIDI：10ファイル](../MIDI/Rachmaninoff/README.md)
+- [WAV：曲別・一括ダウンロード](../WAV/Rachmaninoff/README.md)
+
+[全作曲家](../README.md)

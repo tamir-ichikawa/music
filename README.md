@@ -1,68 +1,60 @@
-# Music — Classical WAV Library
+# Music — Classical MIDI & WAV Library
 
-楽譜由来のMIDIから生成した合成演奏WAVを作曲者別にまとめています。演奏家の録音ではありません。
+楽譜由来のMIDIと、そのMIDIを音源で鳴らしたWAVです。演奏家の録音ではありません。
 
-**24作曲家・409曲／楽章 ＋ 連続再生版5本（全414ファイル）。44.1 kHz / 16 bit / stereo。**
+**24作曲家・409曲／楽章＋連続再生版5本、全414組。**
 
-2026-10-17：**[ヴィヴァルディ「四季」全12楽章・全曲連続版](Vivaldi/README.md)**を追加し、冬の速すぎたテンポを修正しました。ローカルの楽譜・MIDI・WAVも日付別を廃止し、1つのライブラリ内で作曲者別に統合しました。
+- **[MIDIフォルダ](MIDI/README.md)**：作曲者別に実ファイルを保存。
+- **[WAVフォルダ](WAV/README.md)**：作曲者別の曲別リンクと一括ZIP。WAV本体はReleasesに保存。
+- テンポを全件点検し、32ファイルを更新。[変更記録](credits/tempo-audit.csv)。数値未指定のBPMは制作設定です。
 
-2026-10-16：ベートーヴェン、ショパン、モーツァルト、シューベルト、サティなど20作曲家・200本を追加しました。
+| 作曲者 | ファイル数 | MIDI | WAV |
+|---|---:|---|---|
+| バッハ | 132 | [Bach](MIDI/Bach/README.md) | [Bach](WAV/Bach/README.md) |
+| ベートーヴェン | 28 | [Beethoven](MIDI/Beethoven/README.md) | [Beethoven](WAV/Beethoven/README.md) |
+| ビゼー | 2 | [Bizet](MIDI/Bizet/README.md) | [Bizet](WAV/Bizet/README.md) |
+| ブラームス | 3 | [Brahms](MIDI/Brahms/README.md) | [Brahms](WAV/Brahms/README.md) |
+| ショパン | 46 | [Chopin](MIDI/Chopin/README.md) | [Chopin](WAV/Chopin/README.md) |
+| ドビュッシー | 56 | [Debussy](MIDI/Debussy/README.md) | [Debussy](WAV/Debussy/README.md) |
+| ドヴォルザーク | 8 | [Dvorak](MIDI/Dvorak/README.md) | [Dvorak](WAV/Dvorak/README.md) |
+| フォーレ | 2 | [Faure](MIDI/Faure/README.md) | [Faure](WAV/Faure/README.md) |
+| グリーグ | 7 | [Grieg](MIDI/Grieg/README.md) | [Grieg](WAV/Grieg/README.md) |
+| ヘンデル | 2 | [Handel](MIDI/Handel/README.md) | [Handel](WAV/Handel/README.md) |
+| ハイドン | 8 | [Haydn](MIDI/Haydn/README.md) | [Haydn](WAV/Haydn/README.md) |
+| ジョプリン | 5 | [Joplin](MIDI/Joplin/README.md) | [Joplin](WAV/Joplin/README.md) |
+| リスト | 4 | [Liszt](MIDI/Liszt/README.md) | [Liszt](WAV/Liszt/README.md) |
+| メンデルスゾーン | 7 | [Mendelssohn](MIDI/Mendelssohn/README.md) | [Mendelssohn](WAV/Mendelssohn/README.md) |
+| モーツァルト | 23 | [Mozart](MIDI/Mozart/README.md) | [Mozart](WAV/Mozart/README.md) |
+| パッヘルベル | 2 | [Pachelbel](MIDI/Pachelbel/README.md) | [Pachelbel](WAV/Pachelbel/README.md) |
+| ラフマニノフ | 10 | [Rachmaninoff](MIDI/Rachmaninoff/README.md) | [Rachmaninoff](WAV/Rachmaninoff/README.md) |
+| ラヴェル | 9 | [Ravel](MIDI/Ravel/README.md) | [Ravel](WAV/Ravel/README.md) |
+| サティ | 6 | [Satie](MIDI/Satie/README.md) | [Satie](WAV/Satie/README.md) |
+| シューベルト | 13 | [Schubert](MIDI/Schubert/README.md) | [Schubert](WAV/Schubert/README.md) |
+| シューマン | 15 | [Schumann](MIDI/Schumann/README.md) | [Schumann](WAV/Schumann/README.md) |
+| ヨハン・シュトラウス2世 | 2 | [Strauss_Jr](MIDI/Strauss_Jr/README.md) | [Strauss_Jr](WAV/Strauss_Jr/README.md) |
+| チャイコフスキー | 7 | [Tchaikovsky](MIDI/Tchaikovsky/README.md) | [Tchaikovsky](WAV/Tchaikovsky/README.md) |
+| ヴィヴァルディ | 17 | [Vivaldi](MIDI/Vivaldi/README.md) | [Vivaldi](WAV/Vivaldi/README.md) |
 
-| 作曲者 | WAV数 | 一覧 |
-|---|---:|---|
-| ドビュッシー | 56 | [Debussy](Debussy/README.md) |
-| ラヴェル | 9 | [Ravel](Ravel/README.md) |
-| ヴィヴァルディ | 17 | [Vivaldi](Vivaldi/README.md) |
-| バッハ | 132 | [Bach](Bach/README.md) |
-| ベートーヴェン | 28 | [Beethoven](Beethoven/README.md) |
-| ビゼー | 2 | [Bizet](Bizet/README.md) |
-| ブラームス | 3 | [Brahms](Brahms/README.md) |
-| ショパン | 46 | [Chopin](Chopin/README.md) |
-| ドヴォルザーク | 8 | [Dvorak](Dvorak/README.md) |
-| フォーレ | 2 | [Faure](Faure/README.md) |
-| グリーグ | 7 | [Grieg](Grieg/README.md) |
-| ヘンデル | 2 | [Handel](Handel/README.md) |
-| ハイドン | 8 | [Haydn](Haydn/README.md) |
-| ジョプリン | 5 | [Joplin](Joplin/README.md) |
-| リスト | 4 | [Liszt](Liszt/README.md) |
-| メンデルスゾーン | 7 | [Mendelssohn](Mendelssohn/README.md) |
-| モーツァルト | 23 | [Mozart](Mozart/README.md) |
-| パッヘルベル | 2 | [Pachelbel](Pachelbel/README.md) |
-| ラフマニノフ | 10 | [Rachmaninoff](Rachmaninoff/README.md) |
-| サティ | 6 | [Satie](Satie/README.md) |
-| シューベルト | 13 | [Schubert](Schubert/README.md) |
-| シューマン | 15 | [Schumann](Schumann/README.md) |
-| ヨハン・シュトラウス2世 | 2 | [Strauss_Jr](Strauss_Jr/README.md) |
-| チャイコフスキー | 7 | [Tchaikovsky](Tchaikovsky/README.md) |
+## ダウンロードと収録範囲
 
-## ダウンロード
+MIDIは通常のGitファイルです。WAVは合計約14GBで100MBを超える曲もあるため、無料のReleasesから配布しています。Code → Download ZIP にはMIDIと目録が入り、WAV本体は含まれません。WAVの一括ZIPは上の作曲家一覧から取得してください。
 
-各作曲者の一覧で曲名を探し、「ダウンロード」を押してください。WAV本体は[Releases](https://github.com/tamir-ichikawa/music/releases)に保存しています。通常の「Download ZIP」には目録・出典情報が入り、WAV本体は含まれません。
+ソナタ・組曲・交響曲などは楽章や小曲単位で数えています。採用データの末尾までを収録していますが、抜粋や編曲版も含み、曲名に範囲を示しています。四季は全12楽章と連続版5本。平均律第1巻は30曲の抜粋、ラヴェル《鏡》は第1〜4曲です。
 
-- [四季の現行全曲版（12楽章＋連続再生版5本）](https://github.com/tamir-ichikawa/music/releases/tag/four-seasons-complete)
-- [第1弾：ドビュッシー、ラヴェル、ヴィヴァルディ、バッハ（200本）](https://github.com/tamir-ichikawa/music/releases/tag/wav-library-2026-10-15)
-- [第2弾：クラシック20作曲家（200本）](https://github.com/tamir-ichikawa/music/releases/tag/wav-library-2026-10-16)
+## テンポと制作
 
-ソナタ・交響曲・組曲などは楽章・小曲を1本として数えています。各採用データの末尾まで収録した音声です。作品全体の抜粋や編曲版も含み、曲名に範囲を示しています。追加分の「美しく青きドナウ」は主題のピアノ編曲です。
+テンポの数値と音符単位、設定漏れ、主要な速度区間を点検しました。印刷譜の数値と再生値が違う場合を修正し、数値のない曲では制作上の速度を設定しました。BPMに唯一の正解がない曲もあります。[全414件の点検記録](credits/tempo-audit.csv)をご覧ください。
 
-第1弾にはドビュッシー《版画》全3曲、ヴィヴァルディ《冬》全3楽章を収録。ラヴェル《ソナチネ》《クープランの墓》《夜のガスパール》は、それぞれ全曲を1本に収録。平均律第1巻は30曲の抜粋、《鏡》は第1〜4曲です。
+変更した単独曲は音符・音高・音価・強弱と楽器構成を保持し、WAVを再生成しました。連続版は修正済み楽章を再結合。細かなルバート等を新たにすべて演奏付けした版ではありません。旧リリースは履歴として残しているため、この目録のリンクを利用してください。
+
+WAVは44.1kHz / 16bit / stereo、FluidSynthとMuseScore Generalによる合成演奏です。合唱に歌詞の発音はありません。[SHA256SUMS.txt](SHA256SUMS.txt)で照合できます。
 
 ## 利用条件
 
-曲ごとに利用条件が異なります。[catalog.csv](catalog.csv)に配布元、編集者、ライセンスURL、加工内容を記録しています。
+楽譜が古典でもデジタル版ごとの条件があります。MIDIとWAVのどちらも[catalog.csv](catalog.csv)の条件・出典表示を引き継いでください。
 
-- 第1弾のDCML版由来105本：**CC BY-NC-SA 4.0（非商用・出典表示・同一条件）**。
-- Mutopia版由来：曲ごとのPublic Domain、CC BY、CC BY-SA。第2弾200本と現行の四季17本はすべてMutopia由来です。
-- 第1弾PDMX / ScoreBase版由来4本：採用版の配布目録にCC0 1.0と表示。内部の権利表示に矛盾が見当たらない版を採用。
+- DCML由来105本：CC BY-NC-SA 4.0（非商用・出典表示・同一条件）。
+- Mutopia由来：各曲のPublic Domain、CC BY、CC BY-SA。
+- PDMX / ScoreBase由来4本：採用目録のCC0 1.0。
 
-再利用時は曲別の条件を確認してください。配布元の注意点とクレジットは[credits](credits)に保存しています。
-
-## 制作と検査
-
-デジタル楽譜からMIDI化、または配布元の譜面由来MIDIを採用し、音源で合成しました。元データのテンポ・強弱・繰り返しを基本としています。四季「冬」の現行版は四分音符70 / 38 / 72に調整しました。追加分では「月光」ほか一部の曲のテンポ、欠落していた楽器指定、トライアングルの音色番号を調整しました。合唱の音声に歌詞はありません。人間の演奏のようなルバートを新たに作り込んだ版ではありません。
-
-現行414本について音声の存在、長さ、クリッピングを検査。アップロード用コピーは元のWAVとSHA-256が一致しています。[SHA256SUMS.txt](SHA256SUMS.txt)で照合できます。元譜の全小節を人手で校訂したものではありません。
-
-音源：MuseScore General (MIT)。Frank Wen / Michael Cowgill / S. Christian Collins / Ethan Winer / Michael Schorsch。[音源ライセンス全文](credits/MuseScore-General-license.txt)
-
-主な出典：Mutopia Project、DCMLab (Hentschel et al., 2025, https://doi.org/10.1038/s41597-025-04976-z)、PDMX (Long et al., 2025, https://doi.org/10.1109/ICASSP49660.2025.10890217) / ScoreBase。曲別の目録から元の楽譜ページを開けます。
+詳細な出典、編集者、加工内容、ライセンスURLは[catalog.json](catalog.json)と[credits](credits)に記載しています。

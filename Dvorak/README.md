@@ -1,14 +1,8 @@
-# ドヴォルザーク / Dvorak
+# ドヴォルザーク
 
-8本。各収録曲・楽章の末尾まで含む合成演奏WAV（44.1 kHz / 16 bit / stereo）。編曲版・抜粋は曲名に記載。
+保存先を形式別に整理しました。
 
-| 曲名 | WAV | 時間 | 利用条件・出典 |
-|---|---|---|---|
-| 交響曲第9番「新世界より」Op.95 — 第1楽章 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/wav-library-2026-10-16/Dvorak__mutopia_1793_Mvt1_Adagio.wav) | 7:49 | [Creative Commons Attribution-ShareAlike 3.0](https://creativecommons.org/licenses/by-sa/3.0/) · [出典](https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1793) |
-| 交響曲第9番「新世界より」Op.95 — 第2楽章 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/wav-library-2026-10-16/Dvorak__mutopia_1793_Mvt2_Largo.wav) | 8:58 | [Creative Commons Attribution-ShareAlike 3.0](https://creativecommons.org/licenses/by-sa/3.0/) · [出典](https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1793) |
-| 交響曲第9番「新世界より」Op.95 — 第3楽章 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/wav-library-2026-10-16/Dvorak__mutopia_1793_Mvt3_Scherzo.wav) | 3:53 | [Creative Commons Attribution-ShareAlike 3.0](https://creativecommons.org/licenses/by-sa/3.0/) · [出典](https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1793) |
-| 交響曲第9番「新世界より」Op.95 — 第4楽章 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/wav-library-2026-10-16/Dvorak__mutopia_1793_Mvt4_conFuoco.wav) | 9:12 | [Creative Commons Attribution-ShareAlike 3.0](https://creativecommons.org/licenses/by-sa/3.0/) · [出典](https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1793) |
-| 弦楽四重奏曲第12番「アメリカ」Op.96 — 第1楽章 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/wav-library-2026-10-16/Dvorak__mutopia_2211_00_DvorakAmericanQuartet_Conducteur_Mvt1.wav) | 6:23 | [Public Domain](https://www.mutopiaproject.org/legal.html#publicdomain) · [出典](https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2211) |
-| 弦楽四重奏曲第12番「アメリカ」Op.96 — 第2楽章 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/wav-library-2026-10-16/Dvorak__mutopia_2211_00_DvorakAmericanQuartet_Conducteur_Mvt2.wav) | 5:14 | [Public Domain](https://www.mutopiaproject.org/legal.html#publicdomain) · [出典](https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2211) |
-| 弦楽四重奏曲第12番「アメリカ」Op.96 — 第3楽章 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/wav-library-2026-10-16/Dvorak__mutopia_2211_00_DvorakAmericanQuartet_Conducteur_Mvt3.wav) | 2:45 | [Public Domain](https://www.mutopiaproject.org/legal.html#publicdomain) · [出典](https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2211) |
-| 弦楽四重奏曲第12番「アメリカ」Op.96 — 第4楽章 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/wav-library-2026-10-16/Dvorak__mutopia_2211_00_DvorakAmericanQuartet_Conducteur_Mvt4.wav) | 5:04 | [Public Domain](https://www.mutopiaproject.org/legal.html#publicdomain) · [出典](https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2211) |
+- [MIDI：8ファイル](../MIDI/Dvorak/README.md)
+- [WAV：曲別・一括ダウンロード](../WAV/Dvorak/README.md)
+
+[全作曲家](../README.md)
