@@ -6,12 +6,12 @@
 
 [全作家へ戻る](../README.md)
 
-| 型番 | 曲名・説明 | 編成 | 長さ | MIDI |
-| --- | --- | --- | --- | --- |
-| SAT-001 | [白い椅子](SAT-001.md) | ピアノ独奏 | 3:23 | [MIDI](SAT-001.mid) |
-| SAT-002 | [空室の問い](SAT-002.md) | ピアノ独奏 | 3:33 | [MIDI](SAT-002.mid) |
-| SAT-003 | [三つの影](SAT-003.md) | ピアノ独奏 | 3:43 | [MIDI](SAT-003.mid) |
+| 型番 | 曲名・説明 | 編成 | 長さ | WAV | MIDI |
+| --- | --- | --- | --- | --- | --- |
+| SAT-001 | [白い椅子](SAT-001.md) | ピアノ独奏 | 3:23 | [WAV](https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Satie/SAT-001.wav) | [MIDI](SAT-001.mid) |
+| SAT-002 | [空室の問い](SAT-002.md) | ピアノ独奏 | 3:33 | [WAV](https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Satie/SAT-002.wav) | [MIDI](SAT-002.mid) |
+| SAT-003 | [三つの影](SAT-003.md) | ピアノ独奏 | 3:43 | [WAV](https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Satie/SAT-003.wav) | [MIDI](SAT-003.mid) |
 
-WAV本体はGitHub Releasesの作家別ZIPに保存しています。リポジトリの「Code → Download ZIP」にはWAV本体は入りません。
+WAVとMIDIはこのフォルダに1曲ずつ収録しています。表の「WAV」から、携帯でもZIPを展開せずに音声ファイルを開けます。再生またはダウンロードの動作は端末・ブラウザにより異なります。
 
 [制作・公開範囲](../ABOUT.md) / [音源クレジット](../credits/SOUNDFONT_NOTICE.txt)

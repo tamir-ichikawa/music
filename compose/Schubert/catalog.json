@@ -20,7 +20,9 @@
     "wav_bytes": 59040044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Schubert/SBT-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Schubert/SBT-001.wav"
   },
   {
     "id": "SBT-002",
@@ -43,7 +45,9 @@
     "wav_bytes": 61920050,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Schubert/SBT-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Schubert/SBT-002.wav"
   },
   {
     "id": "SBT-003",
@@ -66,6 +70,8 @@
     "wav_bytes": 64800044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Schubert/SBT-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Schubert/SBT-003.wav"
   }
 ]

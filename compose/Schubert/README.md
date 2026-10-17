@@ -6,12 +6,12 @@
 
 [全作家へ戻る](../README.md)
 
-| 型番 | 曲名・説明 | 編成 | 長さ | MIDI |
-| --- | --- | --- | --- | --- |
-| SBT-001 | [旅の窓](SBT-001.md) | ピアノ独奏 | 3:25 | [MIDI](SBT-001.mid) |
-| SBT-002 | [流れる手紙](SBT-002.md) | ピアノ独奏 | 3:35 | [MIDI](SBT-002.mid) |
-| SBT-003 | [暮色の舞踏](SBT-003.md) | ピアノ独奏 | 3:45 | [MIDI](SBT-003.mid) |
+| 型番 | 曲名・説明 | 編成 | 長さ | WAV | MIDI |
+| --- | --- | --- | --- | --- | --- |
+| SBT-001 | [旅の窓](SBT-001.md) | ピアノ独奏 | 3:25 | [WAV](https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Schubert/SBT-001.wav) | [MIDI](SBT-001.mid) |
+| SBT-002 | [流れる手紙](SBT-002.md) | ピアノ独奏 | 3:35 | [WAV](https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Schubert/SBT-002.wav) | [MIDI](SBT-002.mid) |
+| SBT-003 | [暮色の舞踏](SBT-003.md) | ピアノ独奏 | 3:45 | [WAV](https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Schubert/SBT-003.wav) | [MIDI](SBT-003.mid) |
 
-WAV本体はGitHub Releasesの作家別ZIPに保存しています。リポジトリの「Code → Download ZIP」にはWAV本体は入りません。
+WAVとMIDIはこのフォルダに1曲ずつ収録しています。表の「WAV」から、携帯でもZIPを展開せずに音声ファイルを開けます。再生またはダウンロードの動作は端末・ブラウザにより異なります。
 
 [制作・公開範囲](../ABOUT.md) / [音源クレジット](../credits/SOUNDFONT_NOTICE.txt)
