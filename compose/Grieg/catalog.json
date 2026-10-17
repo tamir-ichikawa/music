@@ -20,7 +20,9 @@
     "wav_bytes": 58752038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Grieg/GRG-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Grieg/GRG-001.wav"
   },
   {
     "id": "GRG-002",
@@ -43,7 +45,9 @@
     "wav_bytes": 61632044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Grieg/GRG-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Grieg/GRG-002.wav"
   },
   {
     "id": "GRG-003",
@@ -66,6 +70,8 @@
     "wav_bytes": 64512038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Grieg/GRG-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Grieg/GRG-003.wav"
   }
 ]

@@ -20,7 +20,9 @@
     "wav_bytes": 59040050,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Handel/HND-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Handel/HND-001.wav"
   },
   {
     "id": "HND-002",
@@ -43,7 +45,9 @@
     "wav_bytes": 61920044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Handel/HND-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Handel/HND-002.wav"
   },
   {
     "id": "HND-003",
@@ -66,6 +70,8 @@
     "wav_bytes": 64800050,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Handel/HND-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Handel/HND-003.wav"
   }
 ]

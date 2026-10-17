@@ -6,12 +6,12 @@
 
 [全作家へ戻る](../README.md)
 
-| 型番 | 曲名・説明 | 編成 | 長さ | MIDI |
-| --- | --- | --- | --- | --- |
-| HND-001 | [小さな祝典](HND-001.md) | 木管・弦・ホルン | 3:25 | [MIDI](HND-001.mid) |
-| HND-002 | [夕星の歌](HND-002.md) | オーボエと弦 | 3:35 | [MIDI](HND-002.mid) |
-| HND-003 | [金色の小舟](HND-003.md) | チェンバロ独奏 | 3:45 | [MIDI](HND-003.mid) |
+| 型番 | 曲名・説明 | 編成 | 長さ | WAV | MIDI |
+| --- | --- | --- | --- | --- | --- |
+| HND-001 | [小さな祝典](HND-001.md) | 木管・弦・ホルン | 3:25 | [WAV](https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Handel/HND-001.wav) | [MIDI](HND-001.mid) |
+| HND-002 | [夕星の歌](HND-002.md) | オーボエと弦 | 3:35 | [WAV](https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Handel/HND-002.wav) | [MIDI](HND-002.mid) |
+| HND-003 | [金色の小舟](HND-003.md) | チェンバロ独奏 | 3:45 | [WAV](https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Handel/HND-003.wav) | [MIDI](HND-003.mid) |
 
-WAV本体はGitHub Releasesの作家別ZIPに保存しています。リポジトリの「Code → Download ZIP」にはWAV本体は入りません。
+WAVとMIDIはこのフォルダに1曲ずつ収録しています。表の「WAV」から、携帯でもZIPを展開せずに音声ファイルを開けます。再生またはダウンロードの動作は端末・ブラウザにより異なります。
 
 [制作・公開範囲](../ABOUT.md) / [音源クレジット](../credits/SOUNDFONT_NOTICE.txt)
