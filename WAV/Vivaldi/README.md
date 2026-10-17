@@ -1,12 +1,15 @@
 # ヴィヴァルディ — WAV
 
-[MIDIフォルダ](../../MIDI/Vivaldi/README.md) · [全作曲家](../README.md)
+[MIDI一覧](../../MIDI/Vivaldi/README.md) · [全作曲家](../README.md)
 
 ## 一括ダウンロード
 
-- [ヴィヴァルディ WAV一括](https://github.com/tamir-ichikawa/music/releases/download/tempo-reviewed-library/WAV__Vivaldi.zip)（17本、951 MB）
+- [ヴィヴァルディ WAV一括](https://github.com/tamir-ichikawa/music/releases/download/tempo-reviewed-library/WAV__Vivaldi.zip)（17本）
+- [ヴィヴァルディ 今回追加分WAV](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/WAV__Vivaldi__rock_additions.zip)（23本）
 
-## 1曲ずつ
+複数ZIPがある場合は従来分と追加分です。
+
+## 曲別ダウンロード
 
 | 曲名 | WAV | 時間 |
 |---|---|---:|
@@ -27,5 +30,28 @@
 | 四季「冬」RV297 — 第2楽章 Largo | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/four-seasons-complete/Vivaldi__Four_Seasons__Winter_RV297_02.wav) | 1:56 |
 | 四季「冬」RV297 — 第3楽章 Allegro | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/tempo-reviewed-library/Vivaldi__Four_Seasons__Winter_RV297_03.wav) | 3:25 |
 | 四季「冬」RV297 — 全3楽章（連続再生） | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/tempo-reviewed-library/Vivaldi__Four_Seasons__Winter_RV297_Full.wav) | 8:59 |
+| ヴィオラ・ダモーレとリュートのための協奏曲 RV540 — 第1楽章 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Vivaldi__mutopia_310_score.wav) | 4:31 |
+| ヴィオラ・ダモーレとリュートのための協奏曲 RV540 — 第3楽章 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Vivaldi__mutopia_310_score-2.wav) | 2:37 |
+| ヴィオラ・ダモーレとリュートのための協奏曲 RV540 — 第2楽章 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Vivaldi__mutopia_310_score-1.wav) | 1:41 |
+| 調和の霊感 Op.3 第6番 RV356 — 第1楽章 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Vivaldi__mutopia_2048_6_score.wav) | 2:42 |
+| 調和の霊感 Op.3 第6番 RV356 — 第3楽章 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Vivaldi__mutopia_2048_6_score-2.wav) | 2:07 |
+| 調和の霊感 Op.3 第6番 RV356 — 第2楽章 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Vivaldi__mutopia_2048_6_score-1.wav) | 1:09 |
+| 調和の霊感 Op.3 第1番 RV549 — 第1楽章 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Vivaldi__mutopia_2048_1_score.wav) | 3:26 |
+| 調和の霊感 Op.3 第1番 RV549 — 第3楽章 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Vivaldi__mutopia_2048_1_score-2.wav) | 3:09 |
+| 調和の霊感 Op.3 第1番 RV549 — 第2楽章 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Vivaldi__mutopia_2048_1_score-1.wav) | 2:11 |
+| 調和の霊感 Op.3 第4番 RV550 — 第4楽章 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Vivaldi__mutopia_2048_4_score-3.wav) | 1:40 |
+| 調和の霊感 Op.3 第4番 RV550 — 第1楽章 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Vivaldi__mutopia_2048_4_score.wav) | 2:19 |
+| 調和の霊感 Op.3 第4番 RV550 — 第3楽章 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Vivaldi__mutopia_2048_4_score-2.wav) | 0:26 |
+| 調和の霊感 Op.3 第4番 RV550 — 第2楽章 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Vivaldi__mutopia_2048_4_score-1.wav) | 2:23 |
+| 調和の霊感 Op.3 第3番 RV310 — 第1楽章 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Vivaldi__mutopia_2048_3_score.wav) | 2:36 |
+| 調和の霊感 Op.3 第3番 RV310 — 第3楽章 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Vivaldi__mutopia_2048_3_score-2.wav) | 2:19 |
+| 調和の霊感 Op.3 第3番 RV310 — 第2楽章 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Vivaldi__mutopia_2048_3_score-1.wav) | 1:38 |
+| 調和の霊感 Op.3 第2番 RV578 — 第4楽章 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Vivaldi__mutopia_2048_2_score-3.wav) | 3:05 |
+| 調和の霊感 Op.3 第2番 RV578 — 第1楽章 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Vivaldi__mutopia_2048_2_score.wav) | 0:54 |
+| 調和の霊感 Op.3 第2番 RV578 — 第3楽章 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Vivaldi__mutopia_2048_2_score-2.wav) | 2:03 |
+| 調和の霊感 Op.3 第2番 RV578 — 第2楽章 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Vivaldi__mutopia_2048_2_score-1.wav) | 2:50 |
+| 調和の霊感 Op.3 第5番 RV519 — 第1楽章 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Vivaldi__mutopia_2048_5_score.wav) | 2:50 |
+| 調和の霊感 Op.3 第5番 RV519 — 第3楽章 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Vivaldi__mutopia_2048_5_score-2.wav) | 2:59 |
+| 調和の霊感 Op.3 第5番 RV519 — 第2楽章 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Vivaldi__mutopia_2048_5_score-1.wav) | 1:00 |
 
-数値未指定のテンポは制作上の設定です。出典・編集者・曲別ライセンスは[この作曲家の目録](catalog.json)をご確認ください。CC BY-NC-SAの曲は非商用条件があります。[テンポ点検記録](../../credits/tempo-audit.csv)。
+出典、加工内容、曲別ライセンスは[目録](catalog.json)をご確認ください。数値未指定のテンポは制作上の設定です。

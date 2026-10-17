@@ -1,12 +1,14 @@
 # シューマン — WAV
 
-[MIDIフォルダ](../../MIDI/Schumann/README.md) · [全作曲家](../README.md)
+[MIDI一覧](../../MIDI/Schumann/README.md) · [全作曲家](../README.md)
 
 ## 一括ダウンロード
 
-- [シューマン WAV一括](https://github.com/tamir-ichikawa/music/releases/download/tempo-reviewed-library/WAV__Schumann.zip)（15本、142 MB）
+- [シューマン WAV一括](https://github.com/tamir-ichikawa/music/releases/download/tempo-reviewed-library/WAV__Schumann.zip)（15本）
 
-## 1曲ずつ
+複数ZIPがある場合は従来分と追加分です。
+
+## 曲別ダウンロード
 
 | 曲名 | WAV | 時間 |
 |---|---|---:|
@@ -26,4 +28,4 @@
 | Album pour la jeunesse - 16.Premier chagrin  — O 68 n°16 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/wav-library-2026-10-16/Schumann__mutopia_676_schumann-op68-16-premier-chagrin.wav) | 1:22 |
 | Album pour la jeunesse - 4.Un choral  — O 68 n°4 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/wav-library-2026-10-16/Schumann__mutopia_782_schumann-op68-04-choral.wav) | 1:36 |
 
-数値未指定のテンポは制作上の設定です。出典・編集者・曲別ライセンスは[この作曲家の目録](catalog.json)をご確認ください。CC BY-NC-SAの曲は非商用条件があります。[テンポ点検記録](../../credits/tempo-audit.csv)。
+出典、加工内容、曲別ライセンスは[目録](catalog.json)をご確認ください。数値未指定のテンポは制作上の設定です。

@@ -1,8 +1,8 @@
 # ベートーヴェン — MIDI
 
-[WAVをダウンロード](../../WAV/Beethoven/README.md) · [全作曲家](../README.md)
+[WAV一覧](../../WAV/Beethoven/README.md) · [全作曲家](../README.md)
 
-| 曲名 | MIDI | WAV時間 | 四分音符BPM |
+| 曲名 | MIDI | 時間 | 四分音符BPM |
 |---|---|---:|---|
 | Sonata No. 1 (1st Movement: Allegro) — Op. 2, No. 1 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Beethoven/mutopia_1211_LVB_Sonate_02no1_1.mid) | 3:26 | 190.0 |
 | Sonata No. 1 (3rd Movement: Allegretto) — Op. 2, No. 1 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Beethoven/mutopia_1276_LVB_Sonate_02no1_3.mid) | 1:21 | 168.0 |
@@ -32,5 +32,10 @@
 | Sonata No. 6 (1st Movement: Allegro) — Op. 10, No. 2 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Beethoven/mutopia_992_lvb_sonate_10no2_1.mid) | 4:44 | 96.0 |
 | Sonata No. 6 (2nd Movement: Allegretto) — Op. 10, No. 2 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Beethoven/mutopia_993_lvb_sonate_10no2_2.mid) | 3:27 | 178.0 |
 | Sonata No. 6 (3rd Movement: Presto) — Op. 10, No. 2 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Beethoven/mutopia_994_lvb_sonate_10no2_3.mid) | 2:34 | 148.0 |
+| エグモント序曲 Op.84 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Beethoven/mutopia_547_Egmont.mid) | 8:01 | 84.0 / 168.0 / 152.0 |
+| Quartet No. 4 in C Minor: 1. Allegro ma non tanto — Op. 18 No. 4 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Beethoven/mutopia_790_QuartetOpus18_No4_1.mid) | 8:37 | 138.0 |
+| Quartet No. 4 in C Minor: 2. Andante scherzoso quasi allegretto — Op. 18 No. 4 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Beethoven/mutopia_791_QuartetOpus18_No4_2.mid) | 5:02 | 78.0 |
+| Quartet No. 4 in C Minor: 3. Menuetto. Allegretto — Op. 18 No. 4 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Beethoven/mutopia_792_QuartetOpus18_No4_3.mid) | 2:38 | 192.0 |
+| Quartet No. 4 in C Minor: 4. Allegro - Prestissimo — Op. 18 No. 4 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Beethoven/mutopia_793_QuartetOpus18_No4_4.mid) | 3:59 | 272.0 / 324.0 |
 
-数値未指定のテンポは制作上の設定です。出典・編集者・曲別ライセンスは[この作曲家の目録](catalog.json)をご確認ください。CC BY-NC-SAの曲は非商用条件があります。[テンポ点検記録](../../credits/tempo-audit.csv)。
+出典、加工内容、曲別ライセンスは[目録](catalog.json)をご確認ください。数値未指定のテンポは制作上の設定です。

@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "files": 200,
+  "unique_note_fingerprints": 200,
+  "notes_on_preserved": 200,
+  "balanced_note_pairs": 200,
+  "silent_files": 0,
+  "clipped_files": 0,
+  "redundant_source_note_offs_removed": 19,
+  "synthesized_audio_seconds": 28449.135170068024,
+  "format": "WAV PCM 16-bit stereo 44100 Hz",
+  "source_scores_present": 200,
+  "digital_sources_present": 200,
+  "scope": "Checks establish file integrity and source-note preservation; not a full manual edition of all score measures."
+}

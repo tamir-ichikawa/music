@@ -1,0 +1,26 @@
+[
+  {
+    "composer": "Albeniz",
+    "composer_ja": "アルベニス",
+    "title": "Rumores de la Caleta — 71",
+    "file": "Albeniz/mutopia_898_Rumores_de_la-caleta.wav",
+    "asset": "Albeniz__mutopia_898_Rumores_de_la-caleta.wav",
+    "bytes": 46744668,
+    "seconds": 264.992,
+    "sha256": "a7df4c2a1d62e061e822f96ceb50f9c02925e574cea77e67ddaa87cd145ff883",
+    "source_url": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=898",
+    "license": "Public Domain",
+    "license_url": "https://www.mutopiaproject.org/legal.html#publicdomain",
+    "attribution": "Mutopia Project / David Surtees",
+    "changes": "Instrument/part tracks consolidated; synthesized using FluidSynth / MuseScore General. 採用デジタル譜のMIDIテンポを確認し保持。速度語だけの変化、ルバート、フェルマータはすべてを再現したものではありません。",
+    "download_url": "https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Albeniz__mutopia_898_Rumores_de_la-caleta.wav",
+    "midi_file": "MIDI/Albeniz/mutopia_898_Rumores_de_la-caleta.mid",
+    "midi_download_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Albeniz/mutopia_898_Rumores_de_la-caleta.mid",
+    "midi_sha256": "0b6c41d6d637c252c1916e401b104222c495e977f16ac7d9a175b9e73f26fbfa",
+    "tempo_status": "source_retained",
+    "tempo_note": "採用デジタル譜のMIDIテンポを確認し保持。速度語だけの変化、ルバート、フェルマータはすべてを再現したものではありません。",
+    "quarter_bpm": "60.0",
+    "collection": "Rock arrangement source candidates",
+    "rock_arrangement_reason": "舞曲の拍感とギター的なピアノ書法をラテンロックに使える。"
+  }
+]

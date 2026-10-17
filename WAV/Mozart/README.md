@@ -1,12 +1,14 @@
 # モーツァルト — WAV
 
-[MIDIフォルダ](../../MIDI/Mozart/README.md) · [全作曲家](../README.md)
+[MIDI一覧](../../MIDI/Mozart/README.md) · [全作曲家](../README.md)
 
 ## 一括ダウンロード
 
-- [モーツァルト WAV一括](https://github.com/tamir-ichikawa/music/releases/download/tempo-reviewed-library/WAV__Mozart.zip)（23本、811 MB）
+- [モーツァルト WAV一括](https://github.com/tamir-ichikawa/music/releases/download/tempo-reviewed-library/WAV__Mozart.zip)（23本）
 
-## 1曲ずつ
+複数ZIPがある場合は従来分と追加分です。
+
+## 曲別ダウンロード
 
 | 曲名 | WAV | 時間 |
 |---|---|---:|
@@ -34,4 +36,4 @@
 | Sonate Opus KV 331 - Menuetto | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/wav-library-2026-10-16/Mozart__mutopia_613_KV331_2_1_menuetto.wav) | 6:06 |
 | Sonata Facile - First movement — K 545 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/wav-library-2026-10-16/Mozart__mutopia_998_K545-1.wav) | 2:33 |
 
-数値未指定のテンポは制作上の設定です。出典・編集者・曲別ライセンスは[この作曲家の目録](catalog.json)をご確認ください。CC BY-NC-SAの曲は非商用条件があります。[テンポ点検記録](../../credits/tempo-audit.csv)。
+出典、加工内容、曲別ライセンスは[目録](catalog.json)をご確認ください。数値未指定のテンポは制作上の設定です。

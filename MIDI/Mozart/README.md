@@ -1,8 +1,8 @@
 # モーツァルト — MIDI
 
-[WAVをダウンロード](../../WAV/Mozart/README.md) · [全作曲家](../README.md)
+[WAV一覧](../../WAV/Mozart/README.md) · [全作曲家](../README.md)
 
-| 曲名 | MIDI | WAV時間 | 四分音符BPM |
+| 曲名 | MIDI | 時間 | 四分音符BPM |
 |---|---|---:|---|
 | Sonata Facile - Second movement — K 545 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Mozart/mutopia_1007_K545-2.mid) | 3:43 | 60.0 |
 | Sonata Facile - Third movement — K 545 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Mozart/mutopia_1027_K545-3.mid) | 1:28 | 104.0 |
@@ -28,4 +28,4 @@
 | Sonate Opus KV 331 - Menuetto | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Mozart/mutopia_613_KV331_2_1_menuetto.mid) | 6:06 | 134.0 |
 | Sonata Facile - First movement — K 545 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Mozart/mutopia_998_K545-1.mid) | 2:33 | 132.0 |
 
-数値未指定のテンポは制作上の設定です。出典・編集者・曲別ライセンスは[この作曲家の目録](catalog.json)をご確認ください。CC BY-NC-SAの曲は非商用条件があります。[テンポ点検記録](../../credits/tempo-audit.csv)。
+出典、加工内容、曲別ライセンスは[目録](catalog.json)をご確認ください。数値未指定のテンポは制作上の設定です。

@@ -1,8 +1,4 @@
 # ブラームス
 
-保存先を形式別に整理しました。
-
-- [MIDI：3ファイル](../MIDI/Brahms/README.md)
-- [WAV：曲別・一括ダウンロード](../WAV/Brahms/README.md)
-
-[全作曲家](../README.md)
+- [MIDI一覧](../MIDI/Brahms/README.md)
+- [WAV一覧](../WAV/Brahms/README.md)

@@ -1,8 +1,8 @@
 # バッハ — MIDI
 
-[WAVをダウンロード](../../WAV/Bach/README.md) · [全作曲家](../README.md)
+[WAV一覧](../../WAV/Bach/README.md) · [全作曲家](../README.md)
 
-| 曲名 | MIDI | WAV時間 | 四分音符BPM |
+| 曲名 | MIDI | 時間 | 四分音符BPM |
 |---|---|---:|---|
 | トッカータとフーガ ニ短調 BWV565 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Bach/BWV0565_Toccata_and_Fugue.mid) | 9:34 | 60.0 |
 | 主イエス・キリストよ、われ汝を呼ぶ BWV639 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Bach/BWV0639_Ich_ruf_zu_dir.mid) | 2:01 | 37.0 / 35.0 / 30.0 / 10.0 |
@@ -136,5 +136,22 @@
 | 無伴奏チェロ組曲 第6番 BWV1012 — GavotteII | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Bach/BWV1012_06_GavotteII.mid) | 1:22 | 144.0 |
 | 無伴奏チェロ組曲 第6番 BWV1012 — Gique | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Bach/BWV1012_07_Gique.mid) | 2:59 | 138.0 |
 | G線上のアリア（管弦楽組曲第3番より）BWV1068 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Bach/BWV1068_Air.mid) | 2:34 | 30.0 |
+| Sinfonia 2 — BWV 788 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Bach/mutopia_140_bwv788.mid) | 1:38 | 120.0 |
+| Sinfonia 1 — BWV 787 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Bach/mutopia_142_bwv787.mid) | 1:14 | 70.0 |
+| Sinfonia 3 — BWV 789 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Bach/mutopia_143_bwv789.mid) | 1:28 | 70.0 |
+| Sinfonia 12 — BWV 798 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Bach/mutopia_144_bwv798.mid) | 1:35 | 80.0 |
+| Sinfonia 15 — BWV 801 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Bach/mutopia_145_bwv801.mid) | 1:28 | 60.0 |
+| Sinfonia 4 — BWV 790 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Bach/mutopia_172_bwv790.mid) | 1:34 | 60.0 |
+| Sinfonia 6 — BWV 792 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Bach/mutopia_173_bwv792.mid) | 1:26 | 130.0 |
+| Sinfonia 7 — BWV 793 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Bach/mutopia_175_bwv793.mid) | 1:41 | 80.0 |
+| Sinfonia 8 — BWV 794 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Bach/mutopia_176_bwv794.mid) | 1:11 | 80.0 |
+| Sinfonia 9 — BWV 795 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Bach/mutopia_199_bwv795.mid) | 2:02 | 70.0 |
+| Sinfonia 11 — BWV 797 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Bach/mutopia_200_bwv797.mid) | 1:50 | 60.0 |
+| Sinfonia 5 — BWV 791 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Bach/mutopia_204_bwv791.mid) | 2:06 | 55.0 |
+| Sinfonia 10 — BWV 796 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Bach/mutopia_205_bwv796.mid) | 1:27 | 70.0 |
+| Sinfonia 13 — BWV 799 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Bach/mutopia_206_bwv799.mid) | 1:47 | 55.0 |
+| Sinfonia 14 — BWV 800 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Bach/mutopia_213_bwv800.mid) | 1:14 | 80.0 |
+| Chromatic Fantasy and Fugue, BWV 903 (Fantasy) | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Bach/mutopia_1603_bwv903fan.mid) | 5:18 | 60.0 |
+| Chromatic Fantasy and Fugue, BWV 903 (Fugue) | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Bach/mutopia_1604_bwv903fug.mid) | 4:52 | 100.0 |
 
-数値未指定のテンポは制作上の設定です。出典・編集者・曲別ライセンスは[この作曲家の目録](catalog.json)をご確認ください。CC BY-NC-SAの曲は非商用条件があります。[テンポ点検記録](../../credits/tempo-audit.csv)。
+出典、加工内容、曲別ライセンスは[目録](catalog.json)をご確認ください。数値未指定のテンポは制作上の設定です。

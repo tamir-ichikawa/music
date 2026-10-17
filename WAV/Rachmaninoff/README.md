@@ -1,12 +1,14 @@
 # ラフマニノフ — WAV
 
-[MIDIフォルダ](../../MIDI/Rachmaninoff/README.md) · [全作曲家](../README.md)
+[MIDI一覧](../../MIDI/Rachmaninoff/README.md) · [全作曲家](../README.md)
 
 ## 一括ダウンロード
 
-- [ラフマニノフ WAV一括](https://github.com/tamir-ichikawa/music/releases/download/tempo-reviewed-library/WAV__Rachmaninoff.zip)（10本、276 MB）
+- [ラフマニノフ WAV一括](https://github.com/tamir-ichikawa/music/releases/download/tempo-reviewed-library/WAV__Rachmaninoff.zip)（10本）
 
-## 1曲ずつ
+複数ZIPがある場合は従来分と追加分です。
+
+## 曲別ダウンロード
 
 | 曲名 | WAV | 時間 |
 |---|---|---:|
@@ -21,4 +23,4 @@
 | Prelude Op. 23, No. 8 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/wav-library-2026-10-16/Rachmaninoff__mutopia_2057_rach-prelude23-08.wav) | 2:20 |
 | Prelude Op. 23, No. 10 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/wav-library-2026-10-16/Rachmaninoff__mutopia_2058_rach-prelude23-10.wav) | 3:46 |
 
-数値未指定のテンポは制作上の設定です。出典・編集者・曲別ライセンスは[この作曲家の目録](catalog.json)をご確認ください。CC BY-NC-SAの曲は非商用条件があります。[テンポ点検記録](../../credits/tempo-audit.csv)。
+出典、加工内容、曲別ライセンスは[目録](catalog.json)をご確認ください。数値未指定のテンポは制作上の設定です。

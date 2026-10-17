@@ -1,0 +1,26 @@
+[
+  {
+    "composer": "Saint_Saens",
+    "composer_ja": "サン＝サーンス",
+    "title": "Romance — Op.36",
+    "file": "Saint_Saens/mutopia_1055_SaintSaensRomance.wav",
+    "asset": "Saint_Saens__mutopia_1055_SaintSaensRomance.wav",
+    "bytes": 49744844,
+    "seconds": 282.0,
+    "sha256": "bbb6657b7846bd9b55aed9255a389504a5ca5b8c0c1b0d41228811f6a6b1102c",
+    "source_url": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1055",
+    "license": "Public Domain",
+    "license_url": "https://www.mutopiaproject.org/legal.html#publicdomain",
+    "attribution": "Mutopia Project / Jay Anderson",
+    "changes": "Instrument/part tracks consolidated; synthesized using FluidSynth / MuseScore General. 採用デジタル譜のMIDIテンポを確認し保持。速度語だけの変化、ルバート、フェルマータはすべてを再現したものではありません。",
+    "download_url": "https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Saint_Saens__mutopia_1055_SaintSaensRomance.wav",
+    "midi_file": "MIDI/Saint_Saens/mutopia_1055_SaintSaensRomance.mid",
+    "midi_download_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Saint_Saens/mutopia_1055_SaintSaensRomance.mid",
+    "midi_sha256": "549d37360e9e6746b18b6defcf6c491a270c288b7efb77e4c5b991f4c2500698",
+    "tempo_status": "source_retained",
+    "tempo_note": "採用デジタル譜のMIDIテンポを確認し保持。速度語だけの変化、ルバート、フェルマータはすべてを再現したものではありません。",
+    "quarter_bpm": "60.0",
+    "collection": "Rock arrangement source candidates",
+    "rock_arrangement_reason": "長い歌の旋律を叙情的なギター・バラードに使える。"
+  }
+]

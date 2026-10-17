@@ -1,13 +1,16 @@
 # バッハ — WAV
 
-[MIDIフォルダ](../../MIDI/Bach/README.md) · [全作曲家](../README.md)
+[MIDI一覧](../../MIDI/Bach/README.md) · [全作曲家](../README.md)
 
 ## 一括ダウンロード
 
-- [バッハ WAV一括 1/2](https://github.com/tamir-ichikawa/music/releases/download/tempo-reviewed-library/WAV__Bach__part01.zip)（84本、1397 MB）
-- [バッハ WAV一括 2/2](https://github.com/tamir-ichikawa/music/releases/download/tempo-reviewed-library/WAV__Bach__part02.zip)（48本、1156 MB）
+- [バッハ WAV一括 1/2](https://github.com/tamir-ichikawa/music/releases/download/tempo-reviewed-library/WAV__Bach__part01.zip)（84本）
+- [バッハ WAV一括 2/2](https://github.com/tamir-ichikawa/music/releases/download/tempo-reviewed-library/WAV__Bach__part02.zip)（48本）
+- [バッハ 今回追加分WAV](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/WAV__Bach__rock_additions.zip)（17本）
 
-## 1曲ずつ
+複数ZIPがある場合は従来分と追加分です。
+
+## 曲別ダウンロード
 
 | 曲名 | WAV | 時間 |
 |---|---|---:|
@@ -143,5 +146,22 @@
 | 無伴奏チェロ組曲 第6番 BWV1012 — GavotteII | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/wav-library-2026-10-15/Bach__BWV1012_06_GavotteII.wav) | 1:22 |
 | 無伴奏チェロ組曲 第6番 BWV1012 — Gique | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/wav-library-2026-10-15/Bach__BWV1012_07_Gique.wav) | 2:59 |
 | G線上のアリア（管弦楽組曲第3番より）BWV1068 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/wav-library-2026-10-15/Bach__BWV1068_Air.wav) | 2:34 |
+| Sinfonia 2 — BWV 788 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Bach__mutopia_140_bwv788.wav) | 1:38 |
+| Sinfonia 1 — BWV 787 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Bach__mutopia_142_bwv787.wav) | 1:14 |
+| Sinfonia 3 — BWV 789 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Bach__mutopia_143_bwv789.wav) | 1:28 |
+| Sinfonia 12 — BWV 798 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Bach__mutopia_144_bwv798.wav) | 1:35 |
+| Sinfonia 15 — BWV 801 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Bach__mutopia_145_bwv801.wav) | 1:28 |
+| Sinfonia 4 — BWV 790 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Bach__mutopia_172_bwv790.wav) | 1:34 |
+| Sinfonia 6 — BWV 792 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Bach__mutopia_173_bwv792.wav) | 1:26 |
+| Sinfonia 7 — BWV 793 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Bach__mutopia_175_bwv793.wav) | 1:41 |
+| Sinfonia 8 — BWV 794 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Bach__mutopia_176_bwv794.wav) | 1:11 |
+| Sinfonia 9 — BWV 795 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Bach__mutopia_199_bwv795.wav) | 2:02 |
+| Sinfonia 11 — BWV 797 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Bach__mutopia_200_bwv797.wav) | 1:50 |
+| Sinfonia 5 — BWV 791 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Bach__mutopia_204_bwv791.wav) | 2:06 |
+| Sinfonia 10 — BWV 796 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Bach__mutopia_205_bwv796.wav) | 1:27 |
+| Sinfonia 13 — BWV 799 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Bach__mutopia_206_bwv799.wav) | 1:47 |
+| Sinfonia 14 — BWV 800 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Bach__mutopia_213_bwv800.wav) | 1:14 |
+| Chromatic Fantasy and Fugue, BWV 903 (Fantasy) | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Bach__mutopia_1603_bwv903fan.wav) | 5:18 |
+| Chromatic Fantasy and Fugue, BWV 903 (Fugue) | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Bach__mutopia_1604_bwv903fug.wav) | 4:52 |
 
-数値未指定のテンポは制作上の設定です。出典・編集者・曲別ライセンスは[この作曲家の目録](catalog.json)をご確認ください。CC BY-NC-SAの曲は非商用条件があります。[テンポ点検記録](../../credits/tempo-audit.csv)。
+出典、加工内容、曲別ライセンスは[目録](catalog.json)をご確認ください。数値未指定のテンポは制作上の設定です。

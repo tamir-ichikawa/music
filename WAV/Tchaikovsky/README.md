@@ -1,12 +1,14 @@
 # チャイコフスキー — WAV
 
-[MIDIフォルダ](../../MIDI/Tchaikovsky/README.md) · [全作曲家](../README.md)
+[MIDI一覧](../../MIDI/Tchaikovsky/README.md) · [全作曲家](../README.md)
 
 ## 一括ダウンロード
 
-- [チャイコフスキー WAV一括](https://github.com/tamir-ichikawa/music/releases/download/tempo-reviewed-library/WAV__Tchaikovsky.zip)（7本、219 MB）
+- [チャイコフスキー WAV一括](https://github.com/tamir-ichikawa/music/releases/download/tempo-reviewed-library/WAV__Tchaikovsky.zip)（7本）
 
-## 1曲ずつ
+複数ZIPがある場合は従来分と追加分です。
+
+## 曲別ダウンロード
 
 | 曲名 | WAV | 時間 |
 |---|---|---:|
@@ -18,4 +20,4 @@
 | Doumka — Op. 59 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/tempo-reviewed-library/Tchaikovsky__mutopia_341_dumka.wav) | 8:25 |
 | The Seasons: August — O 37,8 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/wav-library-2026-10-16/Tchaikovsky__mutopia_803_Tschaikowsky-op37_8.wav) | 5:59 |
 
-数値未指定のテンポは制作上の設定です。出典・編集者・曲別ライセンスは[この作曲家の目録](catalog.json)をご確認ください。CC BY-NC-SAの曲は非商用条件があります。[テンポ点検記録](../../credits/tempo-audit.csv)。
+出典、加工内容、曲別ライセンスは[目録](catalog.json)をご確認ください。数値未指定のテンポは制作上の設定です。

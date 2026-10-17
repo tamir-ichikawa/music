@@ -1,8 +1,8 @@
 # ドビュッシー — MIDI
 
-[WAVをダウンロード](../../WAV/Debussy/README.md) · [全作曲家](../README.md)
+[WAV一覧](../../WAV/Debussy/README.md) · [全作曲家](../README.md)
 
-| 曲名 | MIDI | WAV時間 | 四分音符BPM |
+| 曲名 | MIDI | 時間 | 四分音符BPM |
 |---|---|---:|---|
 | 2つのアラベスク — 1. 第1番 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Debussy/l066-01_arabesques_premiere.mid) | 3:52 | 104.0 / 130.0 / 92.0 / 36.0 / 140.0 / 150.0 / 160.0 / 80.0 / 100.0 / 120.0 / 110.0 / 60.0 / 72.0 / 138.0 / 90.0 … |
 | 2つのアラベスク — 2. 第2番 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Debussy/l066-02_arabesques_deuxieme.mid) | 3:40 | 120.0 |
@@ -61,4 +61,4 @@
 | 前奏曲集 第2巻 — 11. 交代する3度 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Debussy/l123-11_preludes_tierces.mid) | 3:25 | 88.0 / 86.0 / 84.0 / 82.0 / 80.0 / 78.0 / 76.0 / 74.0 / 240.0 / 100.0 / 44.0 / 33.33 |
 | 前奏曲集 第2巻 — 12. 花火 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Debussy/l123-12_preludes_feux.mid) | 3:16 | 72.0 / 75.0 / 74.0 / 73.5 / 73.0 / 72.5 / 71.5 / 71.0 / 70.5 / 240.0 / 70.0 / 60.0 / 50.0 / 25.0 / 80.0 … |
 
-数値未指定のテンポは制作上の設定です。出典・編集者・曲別ライセンスは[この作曲家の目録](catalog.json)をご確認ください。CC BY-NC-SAの曲は非商用条件があります。[テンポ点検記録](../../credits/tempo-audit.csv)。
+出典、加工内容、曲別ライセンスは[目録](catalog.json)をご確認ください。数値未指定のテンポは制作上の設定です。

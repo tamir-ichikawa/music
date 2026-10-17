@@ -1,0 +1,26 @@
+[
+  {
+    "composer": "Dukas",
+    "composer_ja": "デュカス",
+    "title": "Villanelle",
+    "file": "Dukas/mutopia_902_DukasVillanelle.wav",
+    "asset": "Dukas__mutopia_902_DukasVillanelle.wav",
+    "bytes": 63742900,
+    "seconds": 361.354,
+    "sha256": "cff40e9fbd317ac4dd785ab0f7500bfc3cdc60f2afcc9f71ad3353b8cac4f678",
+    "source_url": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=902",
+    "license": "Creative Commons Attribution-ShareAlike 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": "Mutopia Project / Jay Anderson",
+    "changes": "Instrument/part tracks consolidated; synthesized using FluidSynth / MuseScore General. 採用デジタル譜のMIDIテンポを確認し保持。速度語だけの変化、ルバート、フェルマータはすべてを再現したものではありません。",
+    "download_url": "https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Dukas__mutopia_902_DukasVillanelle.wav",
+    "midi_file": "MIDI/Dukas/mutopia_902_DukasVillanelle.mid",
+    "midi_download_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Dukas/mutopia_902_DukasVillanelle.mid",
+    "midi_sha256": "101bcb29155ccd8a511b4b194a2be096e8a6d601e86be8e559a7b973de9519ea",
+    "tempo_status": "source_retained",
+    "tempo_note": "採用デジタル譜のMIDIテンポを確認し保持。速度語だけの変化、ルバート、フェルマータはすべてを再現したものではありません。",
+    "quarter_bpm": "90.0 / 240.0 / 320.0",
+    "collection": "Rock arrangement source candidates",
+    "rock_arrangement_reason": "独奏の技巧と劇的な展開をシンフォニック・ロックに使える。"
+  }
+]

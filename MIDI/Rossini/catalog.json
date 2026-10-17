@@ -1,0 +1,26 @@
+[
+  {
+    "composer": "Rossini",
+    "composer_ja": "ロッシーニ",
+    "title": "歌劇《エドゥアルドとクリスティーナ》序曲",
+    "file": "Rossini/mutopia_1634_Eduardo_e_Cristina.wav",
+    "asset": "Rossini__mutopia_1634_Eduardo_e_Cristina.wav",
+    "bytes": 110444588,
+    "seconds": 626.103,
+    "sha256": "04637b2c2199a95fdbe0030a4479218e0490038a217102813803413ef6d76371",
+    "source_url": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1634",
+    "license": "Public Domain",
+    "license_url": "https://www.mutopiaproject.org/legal.html#publicdomain",
+    "attribution": "Mutopia Project / M. Leménager",
+    "changes": "Instrument/part tracks consolidated; synthesized using FluidSynth / MuseScore General. 採用デジタル譜のMIDIテンポを確認し保持。速度語だけの変化、ルバート、フェルマータはすべてを再現したものではありません。",
+    "download_url": "https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Rossini__mutopia_1634_Eduardo_e_Cristina.wav",
+    "midi_file": "MIDI/Rossini/mutopia_1634_Eduardo_e_Cristina.mid",
+    "midi_download_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Rossini/mutopia_1634_Eduardo_e_Cristina.mid",
+    "midi_sha256": "b1d122526415a6c41971fade332880bc9fae97884d88b5e63cf599ff7f9488f9",
+    "tempo_status": "source_retained",
+    "tempo_note": "採用デジタル譜のMIDIテンポを確認し保持。速度語だけの変化、ルバート、フェルマータはすべてを再現したものではありません。",
+    "quarter_bpm": "30.0 / 120.0",
+    "collection": "Rock arrangement source candidates",
+    "rock_arrangement_reason": "段階的な盛り上がりと強い全奏をシンフォニック・ロックに使える。"
+  }
+]

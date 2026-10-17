@@ -1,12 +1,15 @@
 # メンデルスゾーン — WAV
 
-[MIDIフォルダ](../../MIDI/Mendelssohn/README.md) · [全作曲家](../README.md)
+[MIDI一覧](../../MIDI/Mendelssohn/README.md) · [全作曲家](../README.md)
 
 ## 一括ダウンロード
 
-- [メンデルスゾーン WAV一括](https://github.com/tamir-ichikawa/music/releases/download/tempo-reviewed-library/WAV__Mendelssohn.zip)（7本、140 MB）
+- [メンデルスゾーン WAV一括](https://github.com/tamir-ichikawa/music/releases/download/tempo-reviewed-library/WAV__Mendelssohn.zip)（7本）
+- [メンデルスゾーン 今回追加分WAV](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/WAV__Mendelssohn__rock_additions.zip)（3本）
 
-## 1曲ずつ
+複数ZIPがある場合は従来分と追加分です。
+
+## 曲別ダウンロード
 
 | 曲名 | WAV | 時間 |
 |---|---|---:|
@@ -17,5 +20,8 @@
 | Lied Ohne Worte - Opus 102, No. 3 — Op. 102 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/wav-library-2026-10-16/Mendelssohn__mutopia_589_SongWW_opus102no3.wav) | 1:44 |
 | Lied Ohne Worte - Opus 53, No. 5 - Volkslied — Op. 53 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/wav-library-2026-10-16/Mendelssohn__mutopia_592_SongWW_opus53no5.wav) | 2:39 |
 | Inquiétude — Op. 19, No. 5 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/wav-library-2026-10-16/Mendelssohn__mutopia_989_5_Inquietude.wav) | 3:06 |
+| オルガンのための3つの前奏曲とフーガ Op.37 — 第1番 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Mendelssohn__mutopia_1042_nr1.wav) | 3:49 |
+| オルガンのための3つの前奏曲とフーガ Op.37 — 第2番 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Mendelssohn__mutopia_1043_nr2.wav) | 3:11 |
+| オルガンのための3つの前奏曲とフーガ Op.37 — 第3番 | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/rock-arrangement-sources/Mendelssohn__mutopia_1044_nr3.wav) | 3:46 |
 
-数値未指定のテンポは制作上の設定です。出典・編集者・曲別ライセンスは[この作曲家の目録](catalog.json)をご確認ください。CC BY-NC-SAの曲は非商用条件があります。[テンポ点検記録](../../credits/tempo-audit.csv)。
+出典、加工内容、曲別ライセンスは[目録](catalog.json)をご確認ください。数値未指定のテンポは制作上の設定です。

@@ -2,46 +2,67 @@
 
 楽譜由来のMIDIと、そのMIDIを音源で鳴らしたWAVです。演奏家の録音ではありません。
 
-**24作曲家・409曲／楽章＋連続再生版5本、全414組。**
+**43作曲家・609曲／楽章＋連続再生版5本、全614組。**
 
-- **[MIDIフォルダ](MIDI/README.md)**：作曲者別に実ファイルを保存。
-- **[WAVフォルダ](WAV/README.md)**：作曲者別の曲別リンクと一括ZIP。WAV本体はReleasesに保存。
-- テンポを全件点検し、32ファイルを更新。[変更記録](credits/tempo-audit.csv)。数値未指定のBPMは制作設定です。
+- [ロック編曲向けの追加200曲を探す](ROCK_CANDIDATES.md)：25作曲家、曲ごとの編曲案付き。
+- [MIDIフォルダ](MIDI/README.md)：作曲家別に実ファイルを保存。
+- [WAVフォルダ](WAV/README.md)：作曲家別の個別リンクと一括ZIP。WAV本体はReleasesに保存。
 
-| 作曲者 | ファイル数 | MIDI | WAV |
+| 作曲家 | ファイル数 | MIDI | WAV |
 |---|---:|---|---|
-| バッハ | 132 | [Bach](MIDI/Bach/README.md) | [Bach](WAV/Bach/README.md) |
-| ベートーヴェン | 28 | [Beethoven](MIDI/Beethoven/README.md) | [Beethoven](WAV/Beethoven/README.md) |
+| アルベニス | 1 | [Albeniz](MIDI/Albeniz/README.md) | [Albeniz](WAV/Albeniz/README.md) |
+| アルカン | 4 | [Alkan](MIDI/Alkan/README.md) | [Alkan](WAV/Alkan/README.md) |
+| バッハ | 149 | [Bach](MIDI/Bach/README.md) | [Bach](WAV/Bach/README.md) |
+| ベートーヴェン | 33 | [Beethoven](MIDI/Beethoven/README.md) | [Beethoven](WAV/Beethoven/README.md) |
 | ビゼー | 2 | [Bizet](MIDI/Bizet/README.md) | [Bizet](WAV/Bizet/README.md) |
 | ブラームス | 3 | [Brahms](MIDI/Brahms/README.md) | [Brahms](WAV/Brahms/README.md) |
+| ブクステフーデ | 4 | [Buxtehude](MIDI/Buxtehude/README.md) | [Buxtehude](WAV/Buxtehude/README.md) |
+| C.P.E.バッハ | 4 | [CPE_Bach](MIDI/CPE_Bach/README.md) | [CPE_Bach](WAV/CPE_Bach/README.md) |
 | ショパン | 46 | [Chopin](MIDI/Chopin/README.md) | [Chopin](WAV/Chopin/README.md) |
+| クープラン | 9 | [Couperin](MIDI/Couperin/README.md) | [Couperin](WAV/Couperin/README.md) |
 | ドビュッシー | 56 | [Debussy](MIDI/Debussy/README.md) | [Debussy](WAV/Debussy/README.md) |
+| デュカス | 1 | [Dukas](MIDI/Dukas/README.md) | [Dukas](WAV/Dukas/README.md) |
 | ドヴォルザーク | 8 | [Dvorak](MIDI/Dvorak/README.md) | [Dvorak](WAV/Dvorak/README.md) |
 | フォーレ | 2 | [Faure](MIDI/Faure/README.md) | [Faure](WAV/Faure/README.md) |
+| ジュリアーニ | 3 | [Giuliani](MIDI/Giuliani/README.md) | [Giuliani](WAV/Giuliani/README.md) |
 | グリーグ | 7 | [Grieg](MIDI/Grieg/README.md) | [Grieg](WAV/Grieg/README.md) |
-| ヘンデル | 2 | [Handel](MIDI/Handel/README.md) | [Handel](WAV/Handel/README.md) |
-| ハイドン | 8 | [Haydn](MIDI/Haydn/README.md) | [Haydn](WAV/Haydn/README.md) |
+| ヘンデル | 34 | [Handel](MIDI/Handel/README.md) | [Handel](WAV/Handel/README.md) |
+| ハイドン | 14 | [Haydn](MIDI/Haydn/README.md) | [Haydn](WAV/Haydn/README.md) |
+| ホルスト | 2 | [Holst](MIDI/Holst/README.md) | [Holst](WAV/Holst/README.md) |
 | ジョプリン | 5 | [Joplin](MIDI/Joplin/README.md) | [Joplin](WAV/Joplin/README.md) |
 | リスト | 4 | [Liszt](MIDI/Liszt/README.md) | [Liszt](WAV/Liszt/README.md) |
-| メンデルスゾーン | 7 | [Mendelssohn](MIDI/Mendelssohn/README.md) | [Mendelssohn](WAV/Mendelssohn/README.md) |
+| メンデルスゾーン | 10 | [Mendelssohn](MIDI/Mendelssohn/README.md) | [Mendelssohn](WAV/Mendelssohn/README.md) |
 | モーツァルト | 23 | [Mozart](MIDI/Mozart/README.md) | [Mozart](WAV/Mozart/README.md) |
+| ムソルグスキー | 17 | [Mussorgsky](MIDI/Mussorgsky/README.md) | [Mussorgsky](WAV/Mussorgsky/README.md) |
 | パッヘルベル | 2 | [Pachelbel](MIDI/Pachelbel/README.md) | [Pachelbel](WAV/Pachelbel/README.md) |
+| パガニーニ | 6 | [Paganini](MIDI/Paganini/README.md) | [Paganini](WAV/Paganini/README.md) |
 | ラフマニノフ | 10 | [Rachmaninoff](MIDI/Rachmaninoff/README.md) | [Rachmaninoff](WAV/Rachmaninoff/README.md) |
+| ラモー | 3 | [Rameau](MIDI/Rameau/README.md) | [Rameau](WAV/Rameau/README.md) |
 | ラヴェル | 9 | [Ravel](MIDI/Ravel/README.md) | [Ravel](WAV/Ravel/README.md) |
+| リムスキー＝コルサコフ | 5 | [Rimsky_Korsakov](MIDI/Rimsky_Korsakov/README.md) | [Rimsky_Korsakov](WAV/Rimsky_Korsakov/README.md) |
+| ロッシーニ | 1 | [Rossini](MIDI/Rossini/README.md) | [Rossini](WAV/Rossini/README.md) |
+| サン＝サーンス | 1 | [Saint_Saens](MIDI/Saint_Saens/README.md) | [Saint_Saens](WAV/Saint_Saens/README.md) |
 | サティ | 6 | [Satie](MIDI/Satie/README.md) | [Satie](WAV/Satie/README.md) |
+| スカルラッティ | 4 | [Scarlatti](MIDI/Scarlatti/README.md) | [Scarlatti](WAV/Scarlatti/README.md) |
 | シューベルト | 13 | [Schubert](MIDI/Schubert/README.md) | [Schubert](WAV/Schubert/README.md) |
 | シューマン | 15 | [Schumann](MIDI/Schumann/README.md) | [Schumann](WAV/Schumann/README.md) |
+| スクリャービン | 8 | [Scriabin](MIDI/Scriabin/README.md) | [Scriabin](WAV/Scriabin/README.md) |
+| ソル | 4 | [Sor](MIDI/Sor/README.md) | [Sor](WAV/Sor/README.md) |
 | ヨハン・シュトラウス2世 | 2 | [Strauss_Jr](MIDI/Strauss_Jr/README.md) | [Strauss_Jr](WAV/Strauss_Jr/README.md) |
 | チャイコフスキー | 7 | [Tchaikovsky](MIDI/Tchaikovsky/README.md) | [Tchaikovsky](WAV/Tchaikovsky/README.md) |
-| ヴィヴァルディ | 17 | [Vivaldi](MIDI/Vivaldi/README.md) | [Vivaldi](WAV/Vivaldi/README.md) |
+| テレマン | 29 | [Telemann](MIDI/Telemann/README.md) | [Telemann](WAV/Telemann/README.md) |
+| ヴェルディ | 8 | [Verdi](MIDI/Verdi/README.md) | [Verdi](WAV/Verdi/README.md) |
+| ヴィヴァルディ | 40 | [Vivaldi](MIDI/Vivaldi/README.md) | [Vivaldi](WAV/Vivaldi/README.md) |
 
 ## ダウンロードと収録範囲
 
-MIDIは通常のGitファイルです。WAVは合計約14GBで100MBを超える曲もあるため、無料のReleasesから配布しています。Code → Download ZIP にはMIDIと目録が入り、WAV本体は含まれません。WAVの一括ZIPは上の作曲家一覧から取得してください。
+MIDIは通常のGitファイルです。WAVは合計約19.9GBで100MBを超える曲もあるため、無料のReleasesから配布しています。Code → Download ZIP にはMIDIと目録が入り、WAV本体は含まれません。WAVの一括ZIPは上の作曲家一覧から取得してください。従来分と追加分のZIPがある作曲家は、すべて取得すると全収録音声が揃います。
 
 ソナタ・組曲・交響曲などは楽章や小曲単位で数えています。採用データの末尾までを収録していますが、抜粋や編曲版も含み、曲名に範囲を示しています。四季は全12楽章と連続版5本。平均律第1巻は30曲の抜粋、ラヴェル《鏡》は第1〜4曲です。
 
-## テンポと制作
+追加200曲の収録範囲・制作方法・テンポの扱いは[制作記録](credits/rock-arrangement-sources-ja.txt)をご覧ください。
+
+## テンポと制作（従来414本）
 
 テンポの数値と音符単位、設定漏れ、主要な速度区間を点検しました。印刷譜の数値と再生値が違う場合を修正し、数値のない曲では制作上の速度を設定しました。BPMに唯一の正解がない曲もあります。[全414件の点検記録](credits/tempo-audit.csv)をご覧ください。
 

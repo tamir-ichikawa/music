@@ -1,8 +1,8 @@
 # ショパン — MIDI
 
-[WAVをダウンロード](../../WAV/Chopin/README.md) · [全作曲家](../README.md)
+[WAV一覧](../../WAV/Chopin/README.md) · [全作曲家](../README.md)
 
-| 曲名 | MIDI | WAV時間 | 四分音符BPM |
+| 曲名 | MIDI | 時間 | 四分音符BPM |
 |---|---|---:|---|
 | Nocturne — Op. 9, No. 2 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Chopin/mutopia_1590_chopin_nocturne_op9_n2.mid) | 3:36 | 66.0 |
 | Mazurka: Op.33, No.1 — Op. 33, No. 1 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Chopin/mutopia_1682_Mazurka-Op33-No1.mid) | 2:28 | 60.0 |
@@ -51,4 +51,4 @@
 | Etüde C-Dur — Opus 10, No. 1 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Chopin/mutopia_914_chp-10-01.mid) | 2:24 | 176.0 |
 | Etüde Ges-Dur — Opus 10, No. 5 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Chopin/mutopia_926_chp-10-05.mid) | 2:04 | 116.0 / 115.0 / 114.0 / 113.0 / 111.0 / 109.0 / 107.0 / 104.0 / 101.0 / 98.0 / 96.0 / 94.0 / 92.0 / 91.0 / 90.0 … |
 
-数値未指定のテンポは制作上の設定です。出典・編集者・曲別ライセンスは[この作曲家の目録](catalog.json)をご確認ください。CC BY-NC-SAの曲は非商用条件があります。[テンポ点検記録](../../credits/tempo-audit.csv)。
+出典、加工内容、曲別ライセンスは[目録](catalog.json)をご確認ください。数値未指定のテンポは制作上の設定です。

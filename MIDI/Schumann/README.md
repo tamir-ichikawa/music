@@ -1,8 +1,8 @@
 # シューマン — MIDI
 
-[WAVをダウンロード](../../WAV/Schumann/README.md) · [全作曲家](../README.md)
+[WAV一覧](../../WAV/Schumann/README.md) · [全作曲家](../README.md)
 
-| 曲名 | MIDI | WAV時間 | 四分音符BPM |
+| 曲名 | MIDI | 時間 | 四分音符BPM |
 |---|---|---:|---|
 | Romanzen — Op. 28, No. 2 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Schumann/mutopia_314_romanze-op28-2.mid) | 2:05 | 50.0 |
 | Kinderscenen - Von fremden Ländern und Menschen — O 15 N 1 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Schumann/mutopia_354_SchumannOp15No01.mid) | 0:40 | 72.0 |
@@ -20,4 +20,4 @@
 | Album pour la jeunesse - 16.Premier chagrin  — O 68 n°16 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Schumann/mutopia_676_schumann-op68-16-premier-chagrin.mid) | 1:22 | 74.0 / 66.0 |
 | Album pour la jeunesse - 4.Un choral  — O 68 n°4 | [ダウンロード](https://raw.githubusercontent.com/tamir-ichikawa/music/main/MIDI/Schumann/mutopia_782_schumann-op68-04-choral.mid) | 1:36 | 92.0 / 46.0 / 62.0 |
 
-数値未指定のテンポは制作上の設定です。出典・編集者・曲別ライセンスは[この作曲家の目録](catalog.json)をご確認ください。CC BY-NC-SAの曲は非商用条件があります。[テンポ点検記録](../../credits/tempo-audit.csv)。
+出典、加工内容、曲別ライセンスは[目録](catalog.json)をご確認ください。数値未指定のテンポは制作上の設定です。
