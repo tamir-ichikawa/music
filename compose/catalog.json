@@ -20,7 +20,9 @@
     "wav_bytes": 57024050,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Albeniz/ALB-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Albeniz/ALB-001.wav"
   },
   {
     "id": "ALB-002",
@@ -43,7 +45,9 @@
     "wav_bytes": 59904038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Albeniz/ALB-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Albeniz/ALB-002.wav"
   },
   {
     "id": "ALB-003",
@@ -66,7 +70,9 @@
     "wav_bytes": 62784044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Albeniz/ALB-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Albeniz/ALB-003.wav"
   },
   {
     "id": "ALK-001",
@@ -89,7 +95,9 @@
     "wav_bytes": 57312056,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Alkan/ALK-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Alkan/ALK-001.wav"
   },
   {
     "id": "ALK-002",
@@ -112,7 +120,9 @@
     "wav_bytes": 60192038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Alkan/ALK-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Alkan/ALK-002.wav"
   },
   {
     "id": "ALK-003",
@@ -135,7 +145,9 @@
     "wav_bytes": 63072044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Alkan/ALK-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Alkan/ALK-003.wav"
   },
   {
     "id": "BCH-001",
@@ -158,7 +170,9 @@
     "wav_bytes": 57600038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Bach/BCH-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Bach/BCH-001.wav"
   },
   {
     "id": "BCH-002",
@@ -181,7 +195,9 @@
     "wav_bytes": 60480044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Bach/BCH-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Bach/BCH-002.wav"
   },
   {
     "id": "BCH-003",
@@ -204,7 +220,9 @@
     "wav_bytes": 63360050,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Bach/BCH-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Bach/BCH-003.wav"
   },
   {
     "id": "BTV-001",
@@ -227,7 +245,9 @@
     "wav_bytes": 57888038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Beethoven/BTV-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Beethoven/BTV-001.wav"
   },
   {
     "id": "BTV-002",
@@ -250,7 +270,9 @@
     "wav_bytes": 60768050,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Beethoven/BTV-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Beethoven/BTV-002.wav"
   },
   {
     "id": "BTV-003",
@@ -273,7 +295,9 @@
     "wav_bytes": 63648044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Beethoven/BTV-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Beethoven/BTV-003.wav"
   },
   {
     "id": "BZT-001",
@@ -296,7 +320,9 @@
     "wav_bytes": 58176038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Bizet/BZT-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Bizet/BZT-001.wav"
   },
   {
     "id": "BZT-002",
@@ -319,7 +345,9 @@
     "wav_bytes": 61056038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Bizet/BZT-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Bizet/BZT-002.wav"
   },
   {
     "id": "BZT-003",
@@ -342,7 +370,9 @@
     "wav_bytes": 63936038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Bizet/BZT-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Bizet/BZT-003.wav"
   },
   {
     "id": "BRH-001",
@@ -365,7 +395,9 @@
     "wav_bytes": 58464044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Brahms/BRH-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Brahms/BRH-001.wav"
   },
   {
     "id": "BRH-002",
@@ -388,7 +420,9 @@
     "wav_bytes": 61344050,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Brahms/BRH-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Brahms/BRH-002.wav"
   },
   {
     "id": "BRH-003",
@@ -411,7 +445,9 @@
     "wav_bytes": 64224044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Brahms/BRH-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Brahms/BRH-003.wav"
   },
   {
     "id": "BUX-001",
@@ -434,7 +470,9 @@
     "wav_bytes": 58752044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Buxtehude/BUX-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Buxtehude/BUX-001.wav"
   },
   {
     "id": "BUX-002",
@@ -457,7 +495,9 @@
     "wav_bytes": 61632044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Buxtehude/BUX-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Buxtehude/BUX-002.wav"
   },
   {
     "id": "BUX-003",
@@ -480,7 +520,9 @@
     "wav_bytes": 64512050,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Buxtehude/BUX-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Buxtehude/BUX-003.wav"
   },
   {
     "id": "CPE-001",
@@ -503,7 +545,9 @@
     "wav_bytes": 59040044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "CPE_Bach/CPE-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/CPE_Bach/CPE-001.wav"
   },
   {
     "id": "CPE-002",
@@ -526,7 +570,9 @@
     "wav_bytes": 61920044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "CPE_Bach/CPE-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/CPE_Bach/CPE-002.wav"
   },
   {
     "id": "CPE-003",
@@ -549,7 +595,9 @@
     "wav_bytes": 64800038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "CPE_Bach/CPE-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/CPE_Bach/CPE-003.wav"
   },
   {
     "id": "CHP-001",
@@ -572,7 +620,9 @@
     "wav_bytes": 59328050,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Chopin/CHP-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Chopin/CHP-001.wav"
   },
   {
     "id": "CHP-002",
@@ -595,7 +645,9 @@
     "wav_bytes": 62208044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Chopin/CHP-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Chopin/CHP-002.wav"
   },
   {
     "id": "CHP-003",
@@ -618,7 +670,9 @@
     "wav_bytes": 65088056,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Chopin/CHP-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Chopin/CHP-003.wav"
   },
   {
     "id": "CUP-001",
@@ -641,7 +695,9 @@
     "wav_bytes": 57024038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Couperin/CUP-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Couperin/CUP-001.wav"
   },
   {
     "id": "CUP-002",
@@ -664,7 +720,9 @@
     "wav_bytes": 59904044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Couperin/CUP-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Couperin/CUP-002.wav"
   },
   {
     "id": "CUP-003",
@@ -687,7 +745,9 @@
     "wav_bytes": 62784050,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Couperin/CUP-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Couperin/CUP-003.wav"
   },
   {
     "id": "DBY-001",
@@ -710,7 +770,9 @@
     "wav_bytes": 60192044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Debussy/DBY-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Debussy/DBY-001.wav"
   },
   {
     "id": "DBY-002",
@@ -733,7 +795,9 @@
     "wav_bytes": 63360044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Debussy/DBY-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Debussy/DBY-002.wav"
   },
   {
     "id": "DBY-003",
@@ -756,7 +820,9 @@
     "wav_bytes": 58176044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Debussy/DBY-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Debussy/DBY-003.wav"
   },
   {
     "id": "DBY-004",
@@ -779,7 +845,9 @@
     "wav_bytes": 62784044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Debussy/DBY-004.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Debussy/DBY-004.wav"
   },
   {
     "id": "DBY-005",
@@ -802,7 +870,9 @@
     "wav_bytes": 63360044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Debussy/DBY-005.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Debussy/DBY-005.wav"
   },
   {
     "id": "DBY-006",
@@ -825,7 +895,9 @@
     "wav_bytes": 60480044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Debussy/DBY-006.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Debussy/DBY-006.wav"
   },
   {
     "id": "DBY-007",
@@ -848,7 +920,9 @@
     "wav_bytes": 65088044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Debussy/DBY-007.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Debussy/DBY-007.wav"
   },
   {
     "id": "DBY-008",
@@ -871,7 +945,9 @@
     "wav_bytes": 57312050,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Debussy/DBY-008.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Debussy/DBY-008.wav"
   },
   {
     "id": "DBY-009",
@@ -894,7 +970,9 @@
     "wav_bytes": 60192044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Debussy/DBY-009.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Debussy/DBY-009.wav"
   },
   {
     "id": "DBY-010",
@@ -917,7 +995,9 @@
     "wav_bytes": 63072044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Debussy/DBY-010.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Debussy/DBY-010.wav"
   },
   {
     "id": "DUK-001",
@@ -940,7 +1020,9 @@
     "wav_bytes": 57600050,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Dukas/DUK-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Dukas/DUK-001.wav"
   },
   {
     "id": "DUK-002",
@@ -963,7 +1045,9 @@
     "wav_bytes": 60480044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Dukas/DUK-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Dukas/DUK-002.wav"
   },
   {
     "id": "DUK-003",
@@ -986,7 +1070,9 @@
     "wav_bytes": 63360044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Dukas/DUK-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Dukas/DUK-003.wav"
   },
   {
     "id": "DVK-001",
@@ -1009,7 +1095,9 @@
     "wav_bytes": 57888044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Dvorak/DVK-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Dvorak/DVK-001.wav"
   },
   {
     "id": "DVK-002",
@@ -1032,7 +1120,9 @@
     "wav_bytes": 60768050,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Dvorak/DVK-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Dvorak/DVK-002.wav"
   },
   {
     "id": "DVK-003",
@@ -1055,7 +1145,9 @@
     "wav_bytes": 63648050,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Dvorak/DVK-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Dvorak/DVK-003.wav"
   },
   {
     "id": "FAU-001",
@@ -1078,7 +1170,9 @@
     "wav_bytes": 58176044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Faure/FAU-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Faure/FAU-001.wav"
   },
   {
     "id": "FAU-002",
@@ -1101,7 +1195,9 @@
     "wav_bytes": 61056044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Faure/FAU-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Faure/FAU-002.wav"
   },
   {
     "id": "FAU-003",
@@ -1124,7 +1220,9 @@
     "wav_bytes": 63936044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Faure/FAU-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Faure/FAU-003.wav"
   },
   {
     "id": "GLN-001",
@@ -1147,7 +1245,9 @@
     "wav_bytes": 58464044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Giuliani/GLN-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Giuliani/GLN-001.wav"
   },
   {
     "id": "GLN-002",
@@ -1170,7 +1270,9 @@
     "wav_bytes": 61344038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Giuliani/GLN-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Giuliani/GLN-002.wav"
   },
   {
     "id": "GLN-003",
@@ -1193,7 +1295,9 @@
     "wav_bytes": 64224044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Giuliani/GLN-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Giuliani/GLN-003.wav"
   },
   {
     "id": "GRG-001",
@@ -1216,7 +1320,9 @@
     "wav_bytes": 58752038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Grieg/GRG-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Grieg/GRG-001.wav"
   },
   {
     "id": "GRG-002",
@@ -1239,7 +1345,9 @@
     "wav_bytes": 61632044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Grieg/GRG-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Grieg/GRG-002.wav"
   },
   {
     "id": "GRG-003",
@@ -1262,7 +1370,9 @@
     "wav_bytes": 64512038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Grieg/GRG-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Grieg/GRG-003.wav"
   },
   {
     "id": "HND-001",
@@ -1285,7 +1395,9 @@
     "wav_bytes": 59040050,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Handel/HND-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Handel/HND-001.wav"
   },
   {
     "id": "HND-002",
@@ -1308,7 +1420,9 @@
     "wav_bytes": 61920044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Handel/HND-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Handel/HND-002.wav"
   },
   {
     "id": "HND-003",
@@ -1331,7 +1445,9 @@
     "wav_bytes": 64800050,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Handel/HND-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Handel/HND-003.wav"
   },
   {
     "id": "HDN-001",
@@ -1354,7 +1470,9 @@
     "wav_bytes": 59328032,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Haydn/HDN-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Haydn/HDN-001.wav"
   },
   {
     "id": "HDN-002",
@@ -1377,7 +1495,9 @@
     "wav_bytes": 62208044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Haydn/HDN-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Haydn/HDN-002.wav"
   },
   {
     "id": "HDN-003",
@@ -1400,7 +1520,9 @@
     "wav_bytes": 65088044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Haydn/HDN-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Haydn/HDN-003.wav"
   },
   {
     "id": "HLS-001",
@@ -1423,7 +1545,9 @@
     "wav_bytes": 57024044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Holst/HLS-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Holst/HLS-001.wav"
   },
   {
     "id": "HLS-002",
@@ -1446,7 +1570,9 @@
     "wav_bytes": 59904038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Holst/HLS-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Holst/HLS-002.wav"
   },
   {
     "id": "HLS-003",
@@ -1469,7 +1595,9 @@
     "wav_bytes": 62784050,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Holst/HLS-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Holst/HLS-003.wav"
   },
   {
     "id": "JPL-001",
@@ -1492,7 +1620,9 @@
     "wav_bytes": 57312044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Joplin/JPL-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Joplin/JPL-001.wav"
   },
   {
     "id": "JPL-002",
@@ -1515,7 +1645,9 @@
     "wav_bytes": 60192044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Joplin/JPL-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Joplin/JPL-002.wav"
   },
   {
     "id": "JPL-003",
@@ -1538,7 +1670,9 @@
     "wav_bytes": 63072044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Joplin/JPL-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Joplin/JPL-003.wav"
   },
   {
     "id": "LZT-001",
@@ -1561,7 +1695,9 @@
     "wav_bytes": 57600044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Liszt/LZT-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Liszt/LZT-001.wav"
   },
   {
     "id": "LZT-002",
@@ -1584,7 +1720,9 @@
     "wav_bytes": 60480050,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Liszt/LZT-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Liszt/LZT-002.wav"
   },
   {
     "id": "LZT-003",
@@ -1607,7 +1745,9 @@
     "wav_bytes": 63360062,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Liszt/LZT-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Liszt/LZT-003.wav"
   },
   {
     "id": "MEN-001",
@@ -1630,7 +1770,9 @@
     "wav_bytes": 57888044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Mendelssohn/MEN-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Mendelssohn/MEN-001.wav"
   },
   {
     "id": "MEN-002",
@@ -1653,7 +1795,9 @@
     "wav_bytes": 60768050,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Mendelssohn/MEN-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Mendelssohn/MEN-002.wav"
   },
   {
     "id": "MEN-003",
@@ -1676,7 +1820,9 @@
     "wav_bytes": 63648044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Mendelssohn/MEN-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Mendelssohn/MEN-003.wav"
   },
   {
     "id": "MZT-001",
@@ -1699,7 +1845,9 @@
     "wav_bytes": 58176038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Mozart/MZT-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Mozart/MZT-001.wav"
   },
   {
     "id": "MZT-002",
@@ -1722,7 +1870,9 @@
     "wav_bytes": 61056044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Mozart/MZT-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Mozart/MZT-002.wav"
   },
   {
     "id": "MZT-003",
@@ -1745,7 +1895,9 @@
     "wav_bytes": 63936038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Mozart/MZT-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Mozart/MZT-003.wav"
   },
   {
     "id": "MUS-001",
@@ -1768,7 +1920,9 @@
     "wav_bytes": 58464044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Mussorgsky/MUS-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Mussorgsky/MUS-001.wav"
   },
   {
     "id": "MUS-002",
@@ -1791,7 +1945,9 @@
     "wav_bytes": 61344038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Mussorgsky/MUS-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Mussorgsky/MUS-002.wav"
   },
   {
     "id": "MUS-003",
@@ -1814,7 +1970,9 @@
     "wav_bytes": 64224032,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Mussorgsky/MUS-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Mussorgsky/MUS-003.wav"
   },
   {
     "id": "PCH-001",
@@ -1837,7 +1995,9 @@
     "wav_bytes": 58752038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Pachelbel/PCH-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Pachelbel/PCH-001.wav"
   },
   {
     "id": "PCH-002",
@@ -1860,7 +2020,9 @@
     "wav_bytes": 61632086,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Pachelbel/PCH-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Pachelbel/PCH-002.wav"
   },
   {
     "id": "PCH-003",
@@ -1883,7 +2045,9 @@
     "wav_bytes": 64512056,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Pachelbel/PCH-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Pachelbel/PCH-003.wav"
   },
   {
     "id": "PGN-001",
@@ -1906,7 +2070,9 @@
     "wav_bytes": 59040032,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Paganini/PGN-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Paganini/PGN-001.wav"
   },
   {
     "id": "PGN-002",
@@ -1929,7 +2095,9 @@
     "wav_bytes": 61920038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Paganini/PGN-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Paganini/PGN-002.wav"
   },
   {
     "id": "PGN-003",
@@ -1952,7 +2120,9 @@
     "wav_bytes": 64800038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Paganini/PGN-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Paganini/PGN-003.wav"
   },
   {
     "id": "RCH-001",
@@ -1975,7 +2145,9 @@
     "wav_bytes": 59328044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Rachmaninoff/RCH-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Rachmaninoff/RCH-001.wav"
   },
   {
     "id": "RCH-002",
@@ -1998,7 +2170,9 @@
     "wav_bytes": 62208050,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Rachmaninoff/RCH-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Rachmaninoff/RCH-002.wav"
   },
   {
     "id": "RCH-003",
@@ -2021,7 +2195,9 @@
     "wav_bytes": 65088038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Rachmaninoff/RCH-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Rachmaninoff/RCH-003.wav"
   },
   {
     "id": "RAM-001",
@@ -2044,7 +2220,9 @@
     "wav_bytes": 57024038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Rameau/RAM-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Rameau/RAM-001.wav"
   },
   {
     "id": "RAM-002",
@@ -2067,7 +2245,9 @@
     "wav_bytes": 59904050,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Rameau/RAM-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Rameau/RAM-002.wav"
   },
   {
     "id": "RAM-003",
@@ -2090,7 +2270,9 @@
     "wav_bytes": 62784044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Rameau/RAM-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Rameau/RAM-003.wav"
   },
   {
     "id": "RAV-001",
@@ -2113,7 +2295,9 @@
     "wav_bytes": 57312044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Ravel/RAV-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Ravel/RAV-001.wav"
   },
   {
     "id": "RAV-002",
@@ -2136,7 +2320,9 @@
     "wav_bytes": 60192044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Ravel/RAV-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Ravel/RAV-002.wav"
   },
   {
     "id": "RAV-003",
@@ -2159,7 +2345,9 @@
     "wav_bytes": 63072050,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Ravel/RAV-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Ravel/RAV-003.wav"
   },
   {
     "id": "RSK-001",
@@ -2182,7 +2370,9 @@
     "wav_bytes": 57600038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Rimsky_Korsakov/RSK-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Rimsky_Korsakov/RSK-001.wav"
   },
   {
     "id": "RSK-002",
@@ -2205,7 +2395,9 @@
     "wav_bytes": 60480038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Rimsky_Korsakov/RSK-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Rimsky_Korsakov/RSK-002.wav"
   },
   {
     "id": "RSK-003",
@@ -2228,7 +2420,9 @@
     "wav_bytes": 63360038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Rimsky_Korsakov/RSK-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Rimsky_Korsakov/RSK-003.wav"
   },
   {
     "id": "ROS-001",
@@ -2251,7 +2445,9 @@
     "wav_bytes": 57888044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Rossini/ROS-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Rossini/ROS-001.wav"
   },
   {
     "id": "ROS-002",
@@ -2274,7 +2470,9 @@
     "wav_bytes": 60768044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Rossini/ROS-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Rossini/ROS-002.wav"
   },
   {
     "id": "ROS-003",
@@ -2297,7 +2495,9 @@
     "wav_bytes": 63648044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Rossini/ROS-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Rossini/ROS-003.wav"
   },
   {
     "id": "SNS-001",
@@ -2320,7 +2520,9 @@
     "wav_bytes": 58176044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Saint_Saens/SNS-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Saint_Saens/SNS-001.wav"
   },
   {
     "id": "SNS-002",
@@ -2343,7 +2545,9 @@
     "wav_bytes": 61056038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Saint_Saens/SNS-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Saint_Saens/SNS-002.wav"
   },
   {
     "id": "SNS-003",
@@ -2366,7 +2570,9 @@
     "wav_bytes": 63936056,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Saint_Saens/SNS-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Saint_Saens/SNS-003.wav"
   },
   {
     "id": "SAT-001",
@@ -2389,7 +2595,9 @@
     "wav_bytes": 58464044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Satie/SAT-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Satie/SAT-001.wav"
   },
   {
     "id": "SAT-002",
@@ -2412,7 +2620,9 @@
     "wav_bytes": 61344038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Satie/SAT-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Satie/SAT-002.wav"
   },
   {
     "id": "SAT-003",
@@ -2435,7 +2645,9 @@
     "wav_bytes": 64224044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Satie/SAT-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Satie/SAT-003.wav"
   },
   {
     "id": "SCL-001",
@@ -2458,7 +2670,9 @@
     "wav_bytes": 58752044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Scarlatti/SCL-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Scarlatti/SCL-001.wav"
   },
   {
     "id": "SCL-002",
@@ -2481,7 +2695,9 @@
     "wav_bytes": 61632062,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Scarlatti/SCL-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Scarlatti/SCL-002.wav"
   },
   {
     "id": "SCL-003",
@@ -2504,7 +2720,9 @@
     "wav_bytes": 64512068,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Scarlatti/SCL-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Scarlatti/SCL-003.wav"
   },
   {
     "id": "SBT-001",
@@ -2527,7 +2745,9 @@
     "wav_bytes": 59040044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Schubert/SBT-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Schubert/SBT-001.wav"
   },
   {
     "id": "SBT-002",
@@ -2550,7 +2770,9 @@
     "wav_bytes": 61920050,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Schubert/SBT-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Schubert/SBT-002.wav"
   },
   {
     "id": "SBT-003",
@@ -2573,7 +2795,9 @@
     "wav_bytes": 64800044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Schubert/SBT-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Schubert/SBT-003.wav"
   },
   {
     "id": "SCM-001",
@@ -2596,7 +2820,9 @@
     "wav_bytes": 59328044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Schumann/SCM-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Schumann/SCM-001.wav"
   },
   {
     "id": "SCM-002",
@@ -2619,7 +2845,9 @@
     "wav_bytes": 62208050,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Schumann/SCM-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Schumann/SCM-002.wav"
   },
   {
     "id": "SCM-003",
@@ -2642,7 +2870,9 @@
     "wav_bytes": 65088038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Schumann/SCM-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Schumann/SCM-003.wav"
   },
   {
     "id": "SCR-001",
@@ -2665,7 +2895,9 @@
     "wav_bytes": 57024038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Scriabin/SCR-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Scriabin/SCR-001.wav"
   },
   {
     "id": "SCR-002",
@@ -2688,7 +2920,9 @@
     "wav_bytes": 59904038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Scriabin/SCR-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Scriabin/SCR-002.wav"
   },
   {
     "id": "SCR-003",
@@ -2711,7 +2945,9 @@
     "wav_bytes": 62784044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Scriabin/SCR-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Scriabin/SCR-003.wav"
   },
   {
     "id": "SOR-001",
@@ -2734,7 +2970,9 @@
     "wav_bytes": 57312044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Sor/SOR-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Sor/SOR-001.wav"
   },
   {
     "id": "SOR-002",
@@ -2757,7 +2995,9 @@
     "wav_bytes": 60192044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Sor/SOR-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Sor/SOR-002.wav"
   },
   {
     "id": "SOR-003",
@@ -2780,7 +3020,9 @@
     "wav_bytes": 63072044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Sor/SOR-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Sor/SOR-003.wav"
   },
   {
     "id": "STJ-001",
@@ -2803,7 +3045,9 @@
     "wav_bytes": 57600050,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Strauss_Jr/STJ-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Strauss_Jr/STJ-001.wav"
   },
   {
     "id": "STJ-002",
@@ -2826,7 +3070,9 @@
     "wav_bytes": 60480068,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Strauss_Jr/STJ-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Strauss_Jr/STJ-002.wav"
   },
   {
     "id": "STJ-003",
@@ -2849,7 +3095,9 @@
     "wav_bytes": 63360044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Strauss_Jr/STJ-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Strauss_Jr/STJ-003.wav"
   },
   {
     "id": "TCH-001",
@@ -2872,7 +3120,9 @@
     "wav_bytes": 57888050,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Tchaikovsky/TCH-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Tchaikovsky/TCH-001.wav"
   },
   {
     "id": "TCH-002",
@@ -2895,7 +3145,9 @@
     "wav_bytes": 60768038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Tchaikovsky/TCH-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Tchaikovsky/TCH-002.wav"
   },
   {
     "id": "TCH-003",
@@ -2918,7 +3170,9 @@
     "wav_bytes": 63648038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Tchaikovsky/TCH-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Tchaikovsky/TCH-003.wav"
   },
   {
     "id": "TEL-001",
@@ -2941,7 +3195,9 @@
     "wav_bytes": 58176038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Telemann/TEL-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Telemann/TEL-001.wav"
   },
   {
     "id": "TEL-002",
@@ -2964,7 +3220,9 @@
     "wav_bytes": 61056002,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Telemann/TEL-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Telemann/TEL-002.wav"
   },
   {
     "id": "TEL-003",
@@ -2987,7 +3245,9 @@
     "wav_bytes": 63936044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Telemann/TEL-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Telemann/TEL-003.wav"
   },
   {
     "id": "VRD-001",
@@ -3010,7 +3270,9 @@
     "wav_bytes": 58464044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Verdi/VRD-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Verdi/VRD-001.wav"
   },
   {
     "id": "VRD-002",
@@ -3033,7 +3295,9 @@
     "wav_bytes": 61344050,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Verdi/VRD-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Verdi/VRD-002.wav"
   },
   {
     "id": "VRD-003",
@@ -3056,7 +3320,9 @@
     "wav_bytes": 64224038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Verdi/VRD-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Verdi/VRD-003.wav"
   },
   {
     "id": "VIV-001",
@@ -3079,7 +3345,9 @@
     "wav_bytes": 58752044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Vivaldi/VIV-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Vivaldi/VIV-001.wav"
   },
   {
     "id": "VIV-002",
@@ -3102,7 +3370,9 @@
     "wav_bytes": 61632044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Vivaldi/VIV-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Vivaldi/VIV-002.wav"
   },
   {
     "id": "VIV-003",
@@ -3125,6 +3395,8 @@
     "wav_bytes": 64512068,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Vivaldi/VIV-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Vivaldi/VIV-003.wav"
   }
 ]

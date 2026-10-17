@@ -2,7 +2,7 @@
 
 ## 作曲したオリジナル曲（Compose）
 
-[compose：43作家・136曲の新作](compose/README.md)。作家別MIDIと、WAV＋MIDI一括ZIPへのリンクを収録。以下の古典原曲ライブラリとは別の新作集で、制作・公開範囲は[こちら](compose/ABOUT.md)。
+[compose：43作家・136曲の新作](compose/README.md)。作家別フォルダにWAV・MIDIを1曲ずつ収録。携帯からも曲目表のWAVリンクで直接開けます。以下の古典原曲ライブラリとは別の新作集で、制作・公開範囲は[こちら](compose/ABOUT.md)。
 
 
 楽譜由来のMIDIと、そのMIDIを音源で鳴らしたWAVです。演奏家の録音ではありません。

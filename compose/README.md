@@ -2,21 +2,21 @@
 
 **43作家・136曲。** 全作家各３曲の129曲＋以前に制作したドビュッシー参考曲７曲です。各曲３〜４分。参照作家本人の作品ではありません。
 
-[全WAVの配布ページ](https://github.com/tamir-ichikawa/music/releases/tag/original-compositions-2026-10-17) / [全曲目録](catalog.csv) / [制作・音源・公開範囲](ABOUT.md)
+[作家別ZIPの配布ページ](https://github.com/tamir-ichikawa/music/releases/tag/original-compositions-2026-10-17) / [全曲目録](catalog.csv) / [制作・音源・公開範囲](ABOUT.md)
 
-MIDIはこのフォルダの作家別ディレクトリに実ファイルを保存。WAV本体は約8.3GBあるため、作家別ZIPでReleasesから配布しています。各ZIPにはその作家のWAV・MIDI・曲目説明・プレイリストを収録。**Code → Download ZIPにWAV本体は含まれません。**
+WAVとMIDIを同じ作家別フォルダに、1曲ずつ収録しています。**各作家の曲目表の「WAV」から、携帯でもZIPを展開せずに開けます。** 再生またはダウンロードの動作は端末・ブラウザにより異なります。作家別ZIPも引き続き利用できます。
 
 ## 最初の３曲
 
-- [DBY-008「雨あとの糸」](Debussy/DBY-008.md)：流れるピアノのアラベスク。
-- [CHP-001「窓辺の青」](Chopin/CHP-001.md)：短調のピアノ夜想曲。
-- [VIV-001「雨雲の駆け足」](Vivaldi/VIV-001.md)：独奏ヴァイオリンと弦・チェンバロ。
+- [DBY-008「雨あとの糸」](Debussy/DBY-008.md)：流れるピアノのアラベスク。 [WAVを開く](https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Debussy/DBY-008.wav)
+- [CHP-001「窓辺の青」](Chopin/CHP-001.md)：短調のピアノ夜想曲。 [WAVを開く](https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Chopin/CHP-001.wav)
+- [VIV-001「雨雲の駆け足」](Vivaldi/VIV-001.md)：独奏ヴァイオリンと弦・チェンバロ。 [WAVを開く](https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Vivaldi/VIV-001.wav)
 
 選曲は曲の構成と編成に基づき、全曲を耳で比較した順位ではありません。
 
 ## 作家別
 
-| 参照作家 | 曲数 | MIDI・曲目 | WAV＋MIDI ZIP |
+| 参照作家 | 曲数 | WAV・MIDI・曲目 | WAV＋MIDI ZIP |
 | --- | ---: | --- | --- |
 | アルベニス | 3 | [Albeniz](Albeniz/README.md) | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/original-compositions-2026-10-17/compose-Albeniz-20261017.zip) |
 | アルカン | 3 | [Alkan](Alkan/README.md) | [ダウンロード](https://github.com/tamir-ichikawa/music/releases/download/original-compositions-2026-10-17/compose-Alkan-20261017.zip) |
