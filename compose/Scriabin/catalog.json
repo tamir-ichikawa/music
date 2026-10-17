@@ -20,7 +20,9 @@
     "wav_bytes": 57024038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Scriabin/SCR-001.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Scriabin/SCR-001.wav"
   },
   {
     "id": "SCR-002",
@@ -43,7 +45,9 @@
     "wav_bytes": 59904038,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Scriabin/SCR-002.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Scriabin/SCR-002.wav"
   },
   {
     "id": "SCR-003",
@@ -66,6 +70,8 @@
     "wav_bytes": 62784044,
     "sample_rate": 48000,
     "bits": 24,
-    "channels": 2
+    "channels": 2,
+    "wav": "Scriabin/SCR-003.wav",
+    "wav_url": "https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Scriabin/SCR-003.wav"
   }
 ]
