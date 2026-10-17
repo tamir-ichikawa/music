@@ -6,12 +6,12 @@
 
 [全作家へ戻る](../README.md)
 
-| 型番 | 曲名・説明 | 編成 | 長さ | MIDI |
-| --- | --- | --- | --- | --- |
-| CPE-001 | [ためらう帰路](CPE-001.md) | チェンバロ独奏 | 3:25 | [MIDI](CPE-001.mid) |
-| CPE-002 | [ひとりの息](CPE-002.md) | フルート独奏 | 3:35 | [MIDI](CPE-002.mid) |
-| CPE-003 | [急ぎ足の手紙](CPE-003.md) | ピアノ独奏 | 3:45 | [MIDI](CPE-003.mid) |
+| 型番 | 曲名・説明 | 編成 | 長さ | WAV | MIDI |
+| --- | --- | --- | --- | --- | --- |
+| CPE-001 | [ためらう帰路](CPE-001.md) | チェンバロ独奏 | 3:25 | [WAV](https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/CPE_Bach/CPE-001.wav) | [MIDI](CPE-001.mid) |
+| CPE-002 | [ひとりの息](CPE-002.md) | フルート独奏 | 3:35 | [WAV](https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/CPE_Bach/CPE-002.wav) | [MIDI](CPE-002.mid) |
+| CPE-003 | [急ぎ足の手紙](CPE-003.md) | ピアノ独奏 | 3:45 | [WAV](https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/CPE_Bach/CPE-003.wav) | [MIDI](CPE-003.mid) |
 
-WAV本体はGitHub Releasesの作家別ZIPに保存しています。リポジトリの「Code → Download ZIP」にはWAV本体は入りません。
+WAVとMIDIはこのフォルダに1曲ずつ収録しています。表の「WAV」から、携帯でもZIPを展開せずに音声ファイルを開けます。再生またはダウンロードの動作は端末・ブラウザにより異なります。
 
 [制作・公開範囲](../ABOUT.md) / [音源クレジット](../credits/SOUNDFONT_NOTICE.txt)

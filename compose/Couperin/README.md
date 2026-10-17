@@ -6,12 +6,12 @@
 
 [全作家へ戻る](../README.md)
 
-| 型番 | 曲名・説明 | 編成 | 長さ | MIDI |
-| --- | --- | --- | --- | --- |
-| CUP-001 | [琥珀の間](CUP-001.md) | チェンバロ独奏 | 3:18 | [MIDI](CUP-001.mid) |
-| CUP-002 | [小さな礼拝室](CUP-002.md) | チェンバロ独奏 | 3:28 | [MIDI](CUP-002.mid) |
-| CUP-003 | [銀の鳥籠](CUP-003.md) | チェンバロ独奏 | 3:38 | [MIDI](CUP-003.mid) |
+| 型番 | 曲名・説明 | 編成 | 長さ | WAV | MIDI |
+| --- | --- | --- | --- | --- | --- |
+| CUP-001 | [琥珀の間](CUP-001.md) | チェンバロ独奏 | 3:18 | [WAV](https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Couperin/CUP-001.wav) | [MIDI](CUP-001.mid) |
+| CUP-002 | [小さな礼拝室](CUP-002.md) | チェンバロ独奏 | 3:28 | [WAV](https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Couperin/CUP-002.wav) | [MIDI](CUP-002.mid) |
+| CUP-003 | [銀の鳥籠](CUP-003.md) | チェンバロ独奏 | 3:38 | [WAV](https://raw.githubusercontent.com/tamir-ichikawa/music/main/compose/Couperin/CUP-003.wav) | [MIDI](CUP-003.mid) |
 
-WAV本体はGitHub Releasesの作家別ZIPに保存しています。リポジトリの「Code → Download ZIP」にはWAV本体は入りません。
+WAVとMIDIはこのフォルダに1曲ずつ収録しています。表の「WAV」から、携帯でもZIPを展開せずに音声ファイルを開けます。再生またはダウンロードの動作は端末・ブラウザにより異なります。
 
 [制作・公開範囲](../ABOUT.md) / [音源クレジット](../credits/SOUNDFONT_NOTICE.txt)
